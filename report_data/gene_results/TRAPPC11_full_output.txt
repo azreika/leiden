@@ -1,0 +1,3 @@
+leiden_reported_variant	location	type	raw_allele_frequency	deduced_new_base	deduced_allele_frequency	band	reported_pathogenicity	exon	var_pub_as	rna_change	protein_change	db_id	variant_remarks	genet_ori	segregation	reference	template	technique	frequency	re_site
+NM_021942.5:c.2799G>C	4:184618936	snp	C:0.1371	C	0.137100000	0	Probably pathogenic	25	g.184618936G>C	r.(?)	p.(Gln933His)	TRAPPC11_00002	homozygosity mapping	germline (inherited)	-	ASHG2012, Bogershausen, P2944	DNA	SEQ	-	-
+NM_021942.5:c.2938G>A	4:184622936	snp	A:4.122e-05	A	0.000041220	4	Probably pathogenic	26	-	r.(?)	p.(Gly980Arg)	TRAPPC11_00001	WES and homozygosity mapping; not in 200 control chromosomes (Turkish)	germline (inherited)	yes	ASHG2012, Bogershausen, P2944	DNA	SEQ	-	-

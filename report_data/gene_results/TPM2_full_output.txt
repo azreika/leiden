@@ -1,0 +1,39 @@
+leiden_reported_variant	location	type	raw_allele_frequency	deduced_new_base	deduced_allele_frequency	band	reported_pathogenicity	exon	var_pub_as	rna_change	protein_change	db_id	variant_remarks	genet_ori	segregation	reference	template	technique	frequency	re_site
+NM_003289.3:c.5A>T	9:35689810	snp	-	-	No ExAC data for variant	NA	Unknown	1	-	r.(?)	p.(Asp2Val)	TPM2_00018	-	germline (inherited)	-	-	DNA	PCR, SEQ	-	-
+NM_003289.3:c.8C>G	9:35689807	snp	-	-	No ExAC data for variant	NA	Unknown	1	-	r.(?)	p.(Ala3Gly)	TPM2_00035	-	de novo	-	-	DNA	SEQ	-	-
+NM_003289.3:c.20_22del	9:35689793-35689795	del	-	-	No ExAC data for variant	NA	Unknown	1	20_22delAGA	r.?	p.(Lys7del)	TPM2_00023	-	germline (inherited)	-	-	DNA	PCR, SEQ	-	-
+NM_003289.3:c.115-105A>G	9:35689373	snp	-	-	No ExAC data for variant	NA	No known pathogenicity	1i	IVS1 328A>G	r.(=)	p.(=)	TPM2_00003	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/11738357	DNA	SEQ, SSCA	66/158 controls	-
+NM_003289.3:c.121G>A	9:35689262	snp	-	-	No ExAC data for variant	NA	Pathogenic	2	cG360A, G1639A	r.121g>a	p.Glu41Lys	TPM2_00012	not in 200 control chromosomes	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/17846275,http://www.ncbi.nlm.nih.gov/pubmed/18422639,http://www.omim.org/entry/190990#0005	DNA	SEQ	-	BslI-
+NM_003289.3:c.145_147del	9:35689236-35689238	del	-	-	No ExAC data for variant	NA	Pathogenic	2	384_386del	r.(?)	p.(Lys49del)	TPM2_00013	de novo, in patient	de novo	-	http://www.ncbi.nlm.nih.gov/pubmed/19047562,http://www.omim.org/entry/190990#0007	DNA	SEQ	-	-
+NM_003289.3:c.181T>C	9:35689202	snp	-	-	No ExAC data for variant	NA	Probably pathogenic	2	-	r.(?)	p.(Ser61Pro)	TPM2_00041	no variants in RYR1, ACTA1, TPM3	de novo	-	http://www.ncbi.nlm.nih.gov/pubmed/22832343	DNA	SEQ-NG-I	-	-
+NM_003289.3:c.240+2T>G	9:35689141	snp	-	-	No ExAC data for variant	NA	Mixed reported pathogenicity	2i	-	r.spl?	p.?	TPM2_00025	-	de novo	-	-	DNA	PCR, SEQ	-	-
+NM_003289.3:c.240+4_240+7del	9:35689136-35689139	del	-	-	No ExAC data for variant	NA	Probably pathogenic	2i	-	r.(spl?)	p.(del?)	TPM2_00016	-	germline (inherited)	-	-	DNA	PCR, SEQ	-	-
+NM_003289.3:c.240+5G>A	9:35689138	snp	-	-	No ExAC data for variant	NA	Unknown	2i	-	r.spl?	p.?	TPM2_00022	-	de novo	-	-	DNA	PCR, SEQ	-	-
+NM_003289.3:c.271C>G	9:35685747	snp	-	-	No ExAC data for variant	NA	Pathogenic	3	-	r.(?)	p.(Arg91Gly)	TPM2_00009	not in 140 control chromosomes	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/12592607,http://www.omim.org/entry/190990#0001	DNA	SEQ	-	SacII+
+NM_003289.3:c.278A>G	9:35685740	snp	-	-	No ExAC data for variant	NA	Unknown	3	-	r.(?)	p.(Gln93Arg)	TPM2_00019	-	germline (inherited)	-	-	DNA	PCR, SEQ	-	-
+NM_003289.3:c.279G>C	9:35685739	snp	-	-	No ExAC data for variant	NA	Probably pathogenic	3	-	r.(?)	p.(Gln93His)	TPM2_00036	-	de novo	yes	-	DNA	SEQ	-	-
+NM_003289.3:c.349G>A	9:35685669	snp	-	-	No ExAC data for variant	NA	Pathogenic	3	Gln117Lys, not possible	r.(?)	p.(Glu117Lys)	TPM2_00002	de novo, in patient	de novo	-	http://www.ncbi.nlm.nih.gov/pubmed/11738357,http://www.omim.org/entry/190990#0003	DNA	SSCA	-	-
+NM_003289.3:c.349G>C	9:35685669	snp	-	-	No ExAC data for variant	NA	Pathogenic	3	-	r.(?)	p.(Glu117Gln)	TPM2_00027	-	de novo	-	-	DNA	PCR, SEQ	-	-
+NM_003289.3:c.357G>A	9:35685661	snp	T:4.968e-05,G:8.281e-06	T	0.000049680	4	Unknown	3	-	r.(?)	p.(=)	TPM2_00028	-	unknown	-	http://genetics.emory.edu/egl/emvclass/emvclass.php	DNA	SEQ	-	-
+NM_003289.3:c.382A>G	9:35685541	snp	-	-	No ExAC data for variant	NA	Probably pathogenic	4	-	r.(?)	p.(Lys128Glu)	TPM2_00037	-	de novo	-	-	DNA	SEQ	-	-
+NM_003289.3:c.397C>T	9:35685526	snp	-	-	No ExAC data for variant	NA	Pathogenic	4	-	r.(?)	p.(Arg133Trp)	TPM2_00010	not in 200 control chromosomes	de novo	-	http://www.ncbi.nlm.nih.gov/pubmed/17339586,http://www.omim.org/entry/190990#0004	DNA	SEQ	-	BsrI+
+NM_003289.3:c.398G>C	9:35685525	snp	-	-	No ExAC data for variant	NA	Probably pathogenic	4	-	r.(?)	p.(Arg133Pro)	TPM2_00024	-	de novo	-	-	DNA	PCR, SEQ	-	-
+NM_003289.3:c.415_417delGAG	9:35685506-35685508	del	-	-	No ExAC data for variant	NA	Pathogenic	4	-	r.(?)	p.(Glu139del)	TPM2_00011	no DNA father; not in 200 control chromosomes	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/17434307,http://www.omim.org/entry/190990#0006	DNA	SEQ	-	-
+NM_003289.3:c.428T>C	9:35685495	snp	-	-	No ExAC data for variant	NA	Probably pathogenic	4	-	r.(?)	p.(Leu143Pro)	TPM2_00038	-	germline (inherited)	-	-	DNA	SEQ	-	-
+NM_003289.3:c.440A>C	9:35685483	snp	-	-	No ExAC data for variant	NA	Pathogenic	4	Glu147Pro, not possible	r.440a>c	p.Gln147Pro	TPM2_00001	possibly de novo (not in mother, 7 sibs); RNA muscle	de novo	-	http://www.ncbi.nlm.nih.gov/pubmed/11738357,http://www.omim.org/entry/190990#0002	DNA	SSCA	-	-
+NM_003289.3:c.443T>C	9:35685480	snp	-	-	No ExAC data for variant	NA	Probably pathogenic	4	-	r.(?)	p.(Leu148Pro)	TPM2_00039	-	de novo	-	-	DNA	SEQ	-	-
+NM_003289.3:c.464C>T	9:35685459	snp	-	-	No ExAC data for variant	NA	Probably pathogenic	4	-	r.(?)	p.(Ala155Val)	TPM2_00042	no variants in ACTA1, TPM3	de novo	-	http://www.ncbi.nlm.nih.gov/pubmed/22832343	DNA	SEQ	-	-
+NM_003289.3:c.478C>T	9:35685445	snp	-	-	No ExAC data for variant	NA	Probably pathogenic	4	-	r.(?)	p.(Arg160Cys)	TPM2_00033	-	de novo	-	-	DNA	PCR, SEQ	-	-
+NM_003289.3:c.530A>T	9:35685299	snp	-	-	No ExAC data for variant	NA	Probably pathogenic	5	-	r.(?)	p.(Glu177Val)	TPM2_00034	-	de novo	-	-	DNA	PCR, SEQ	-	-
+NM_003289.3:c.564-17dupC	9:35684819-35684820	dup	-	-	No ExAC data for variant	NA	No known pathogenicity	5i	564-19dupC	r.(?)	p.(=)	TPM2_00029	-	unknown	-	http://genetics.emory.edu/egl/emvclass/emvclass.php	DNA	SEQ	-	-
+NM_003289.3:c.606C>G	9:35684762	snp	-	-	No ExAC data for variant	NA	Pathogenic	6	845C>G	r.(?)	p.(Asn202Lys)	TPM2_00015	de novo, in patient	de novo	-	http://www.ncbi.nlm.nih.gov/pubmed/19047562,http://www.omim.org/entry/190990#0008	DNA	SEQ	-	-
+NM_003289.3:c.628C>T	9:35684740	snp	-	-	No ExAC data for variant	NA	Pathogenic	6	-	r.628c>u	p.Gln210*	TPM2_00026	mRNA level reduced to 1.5%	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/19155175	DNA, RNA	RT-PCR, SEQ	-	-
+NM_003289.3:c.639+33G>T	9:35684696	snp	A:0.001344,T:8.248e-06	A	0.001344000	2	No known pathogenicity	6i	-	r.(?)	p.(=)	TPM2_00030	-	unknown	-	http://genetics.emory.edu/egl/emvclass/emvclass.php	DNA	SEQ	-	-
+NM_003289.3:c.639+238dupC	9:35684490-35684491	dup	-	-	No ExAC data for variant	NA	No known pathogenicity	6i	IVS6 231 8C/9C	r.(=)	p.(=)	TPM2_00021	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/11738357	DNA	SEQ, SSCA	78/172 controls	-
+NM_003289.3:c.654_656del	9:35684531-35684533	del	-	-	No ExAC data for variant	NA	Unknown	7	654_656delAGA	r.(?)	p.(Glu218del)	TPM2_00017	-	germline (inherited)	-	-	DNA	PCR, SEQ	-	-
+NM_003289.3:c.699G>T	9:35684488	snp	-	-	No ExAC data for variant	NA	No known pathogenicity	7	-	r.(?)	p.(Lys233Asn)	TPM2_00007	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/SNP/snp_ref.cgi?type=rs&rs=rs1804558	DNA	SEQ	-	-
+NM_003289.3:c.773-3C>A	9:35683241	snp	-	-	No ExAC data for variant	NA	Unknown	8i	-	r.(spl?)	p.(?)	TPM2_00020	-	germline (inherited)	-	-	DNA	PCR, SEQ	-	-
+NM_003289.3:c.773-3dupC	9:35683240-35683241	dup	-	-	No ExAC data for variant	NA	No known pathogenicity	8i	-	r.(=)	p.(=)	TPM2_00004	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/SNP/snp_ref.cgi?type=rs&rs=rs3215700	DNA	SEQ	?	-
+NM_003289.3:c.802A>G	9:35683209	snp	-	-	No ExAC data for variant	NA	Unknown	9	-	r.(?)	p.(Lys268Glu)	TPM2_00040	-	germline (inherited)	-	-	DNA	PCR, SEQ	-	-
+NM_003289.3:c.*7C>T	9:35683149	snp	A:0.01881	A	0.018810000	1	No known pathogenicity	9	-	r.(?)	p.(=)	TPM2_00032	-	unknown	-	http://genetics.emory.edu/egl/emvclass/emvclass.php	DNA	SEQ	-	-
+NM_003289.3:c.*8G>A	9:35683148	snp	T:0.08612,T:0.08612	T	0.086120000	1	No known pathogenicity	9	-	r.(?)	p.(=)	TPM2_00006	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/11738357	DNA	SSCA	22/154 controls	-
