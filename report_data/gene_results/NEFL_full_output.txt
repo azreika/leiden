@@ -1,0 +1,4 @@
+leiden_reported_variant	location	type	raw_allele_frequency	deduced_new_base	deduced_allele_frequency	band	reported_pathogenicity	exon	var_pub_as	rna_change	protein_change	db_id	variant_remarks	genet_ori	reference	template	technique	frequency	re_site
+NM_006158.3:c.64C>A	8:24813966	snp	-	-	No ExAC data for variant	NA	Pathogenic	1	-	r.(?)	p.(Pro22Thr)	NEFL_00003	-	germline (inherited)	-	DNA	SEQ	1/25	-
+NM_006158.3:c.1150A>T	8:24811714	snp	-	-	No ExAC data for variant	NA	Probably pathogenic	2	-	r.(?)	p.(Ile384Phe)	NEFL_00002	-	germline (inherited)	-	DNA	DSCA, SEQ	1/25	-
+NM_006158.3:c.1186G>A	8:24811293	snp	-	-	No ExAC data for variant	NA	Pathogenic	3	-	r.(?)	p.(Glu396Lys)	NEFL_00001	-	germline (inherited)	-	DNA	DSCA, SEQ	1/25	-

@@ -1,0 +1,109 @@
+leiden_reported_variant	location	type	raw_allele_frequency	deduced_new_base	deduced_allele_frequency	band	reported_pathogenicity	exon	var_pub_as	rna_change	protein_change	db_id	variant_remarks	genet_ori	reference	template	technique	frequency	re_site
+NM_020451.2:c.-42T>C	1:26126680	snp	-	-	No ExAC data for variant	NA	No known pathogenicity	1	-	r.(?)	p.(=)	SEPN1_00102	-	unknown	http://genetics.emory.edu/egl/emvclass/emvclass.php	DNA	SEQ	-	-
+NM_020451.2:c.-30_64del	1:26126687-26126780	del	-	-	No ExAC data for variant	NA	Pathogenic	1	1-34_60del94	r.(?)	p.?	SEPN1_00074	-	germline (inherited)	-	DNA	SEQ	-	-
+NM_020451.2:c.-22_72del	1:26126697-26126790	del	-	-	No ExAC data for variant	NA	No known pathogenicity	1	1-25_69del	r.(?)	p.0?	SEPN1_00050	-	germline (inherited)	http://www.ncbi.nlm.nih.gov/pubmed/19067361	DNA	SEQ	-	-
+NM_020451.2:c.-12C>G	1:26126710	snp	-	-	No ExAC data for variant	NA	Unknown	1	-	r.(?)	p.?	SEPN1_00077	-	germline (inherited)	-	DNA	SEQ	-	-
+NM_020451.2:c.-11_81del	1:26126703-26126794	del	-	-	No ExAC data for variant	NA	Pathogenic	1	-19_73del	r.(?)	p.0?	SEPN1_00001	linked to 1p36	germline (inherited)	http://www.ncbi.nlm.nih.gov/pubmed/15122708	DNA	SSCA, SEQ	-	-
+NM_020451.2:c.-10_135del	1:26126703-26126847	del	-	-	No ExAC data for variant	NA	Probably pathogenic	1	-	r.(?)	p.0?	SEPN1_00101	deletion of the terminal 10 nucleotides of the 5' UTR and the first 135 nucleotides of exon 1	germline (inherited)	-	DNA	PCR, SEQ	-	-
+NM_020451.2:c.1A>G	1:26126722	snp	-	-	No ExAC data for variant	NA	Mixed reported pathogenicity	1	-	r.(?)	p.0?	SEPN1_00002	mRNA level near normal	germline (inherited)	http://www.ncbi.nlm.nih.gov/pubmed/12192640,http://www.omim.org/entry/606210#0003,http://www.ncbi.nlm.nih.gov/pubmed/16498447	DNA	SSCA, SEQ	-	-
+NM_020451.2:c.2dupT	1:26126722-26126723	dup	-	-	No ExAC data for variant	NA	Pathogenic	1	1_2insT	r.2dup	p.0?	SEPN1_00004	mRNA level 0.6-0.7; potential secondary translation initiation	germline (inherited)	http://www.ncbi.nlm.nih.gov/pubmed/16779558	DNA, RNA	RT-PCR, SEQ	-	-
+NM_020451.2:c.2T>G	1:26126723	snp	-	-	No ExAC data for variant	NA	Pathogenic	1	(Met1Val)	r.(?)	p.0?	SEPN1_00073	-	germline (inherited)	-	DNA	PCR, SEQ	-	-
+NM_020451.2:c.9_33del	1:26126724-26126748	del	-	-	No ExAC data for variant	NA	Mixed reported pathogenicity	1	9_33del25	r.(?)	p.(Ala4Profs*54)	SEPN1_00060	-	germline (inherited)	-	DNA	PCR, SEQ	-	-
+NM_020451.2:c.23_32dup10	1:26126743-26126744	dup	-	-	No ExAC data for variant	NA	Pathogenic	1	-	r.(?)	p.(Pro12Thrfs*75)	SEPN1_00038	variant identical to 13_22dup10?	germline (inherited)	http://www.ncbi.nlm.nih.gov/pubmed/16365872	DNA	SEQ	-	-
+NM_020451.2:c.42C>T	1:26126763	snp	-	-	No ExAC data for variant	NA	Unknown	1	-	r.(?)	p.(=)	SEPN1_00036	-	germline (inherited)	-	DNA	SEQ	-	-
+NM_020451.2:c.103G>C	1:26126824	snp	C:0	C	0.000000000	9	Unknown	1	-	r.(?)	p.(Gly35Arg)	SEPN1_00093	-	germline (inherited)	-	DNA	SEQ	-	-
+NM_020451.2:c.163dupG	1:26126882-26126883	dup	-	-	No ExAC data for variant	NA	Probably pathogenic	1	-	r.(?)	p.(Ala55Glyfs*28)	SEPN1_00100	-	germline (inherited)	-	DNA	PCR, SEQ	-	-
+NM_020451.2:c.166C>T	1:26126887	snp	-	-	No ExAC data for variant	NA	Pathogenic	1	-	r.(?)	p.(Gln56*)	SEPN1_00080	-	germline (inherited)	-	DNA	SEQ	-	-
+NM_020451.2:c.253A>G	1:26127603	snp	G:1.658e-05,G:1.658e-05	G	0.000016580	4	Unknown	2	-	r.(?)	p.(Met85Val)	SEPN1_00027	-	germline (inherited)	-	DNA	SEQ	-	-
+NM_020451.2:c.402_403+2del	1:26128606-26128609	del	-:0	-	0.000000000	9	Mixed reported pathogenicity	3_3i	402_403+2delGAgt	r.spl?	p.(del?)	SEPN1_00066	-	germline (inherited)	-	DNA	SEQ	-	-
+NM_020451.2:c.409A>G	1:26131638	snp	G:0.01288,G:0.01288	G	0.012880000	1	Mixed reported pathogenicity	4	-	r.(?)	p.(Thr137Ala)	SEPN1_00048	-	germline (inherited)	http://www.ncbi.nlm.nih.gov/SNP/snp_ref.cgi?type=rs&rs=rs35019869	DNA	SEQ	0-0.03	-
+NM_020451.2:c.415G>A	1:26131644	snp	A:0.0007135,T:2.489e-05	A	0.000713500	3	Unknown	4	-	r.(?)	p.(Ala139Thr)	SEPN1_00028	-	germline (inherited)	-	DNA	SEQ	-	-
+NM_020451.2:c.425G>A	1:26131654	snp	A:0.8144,A:0.8144	A	0.814400000	0	No known pathogenicity	4	-	r.(?)	p.(Cys142Tyr)	SEPN1_00006	-	germline (inherited)	http://www.ncbi.nlm.nih.gov/SNP/snp_ref.cgi?type=rs&rs=rs7349185	DNA	SEQ	0.81	-
+NM_020451.2:c.446dupC	1:26131670-26131671	dup	-	-	No ExAC data for variant	NA	Pathogenic	4	-	r.(?)	p.(Asp150*)	SEPN1_00096	-	germline (inherited)	-	DNA	SEQ	-	-
+NM_020451.2:c.465G>A	1:26131694	snp	A:6.63e-05,A:6.63e-05	A	0.000066300	4	Probably not pathogenic	4	-	r.(?)	p.(=)	SEPN1_00029	-	germline (inherited)	-	DNA	SEQ	-	-
+NM_020451.2:c.481C>T	1:26131710	snp	T:1.657e-05,T:1.657e-05	T	0.000016570	4	Probably pathogenic	4	-	r.(?)	p.(Arg161*)	SEPN1_00055	-	germline (inherited)	-	DNA	SEQ	-	-
+NM_020451.2:c.538-48delC	1:26135020	del	-	-	No ExAC data for variant	NA	Unknown	4i	538-47delC	r.(?)	p.(=)	SEPN1_00068	-	germline (inherited)	-	DNA	SEQ	-	-
+NM_020451.2:c.538-2A>T	1:26135069	snp	-	-	No ExAC data for variant	NA	Probably pathogenic	4i	-	r.spl	p.?	SEPN1_00112	-	germline (inherited)	-	DNA	PCR, SEQ	-	-
+NM_020451.2:c.571_572del	1:26135104-26135105	del	-	-	No ExAC data for variant	NA	Pathogenic	5	571_572delTG	r.(?)	p.(Trp191Aspfs*28)	SEPN1_00071	-	germline (inherited)	-	DNA	SEQ	-	-
+NM_020451.2:c.583G>A	1:26135116	snp	A:0.01006,A:0.01006	A	0.010060000	1	Mixed reported pathogenicity	5	A195T	r.(?)	p.(Ala195Thr)	SEPN1_00007	-	germline (inherited)	http://www.ncbi.nlm.nih.gov/pubmed/15792869	DNA	SEQ	1/22	-
+NM_020451.2:c.713dupA	1:26135244-26135245	dup	A:0.0001497	A	0.000149700	3	Mixed reported pathogenicity	5	713-714insA	r.(?)	p.(Asn238Lysfs*62)	SEPN1_00008	-	germline (inherited)	http://www.ncbi.nlm.nih.gov/pubmed/12192640,http://www.omim.org/entry/606210#0006	DNA	SSCA, DHPLC, SEQ	-	-
+NM_020451.2:c.714_715insA	1:26135247-26135248	ins	-	-	No ExAC data for variant	NA	Pathogenic	5	-	r.(?)	p.(Arg239Thrfs*62)	SEPN1_00064	-	germline (inherited)	-	DNA	SEQ	-	-
+NM_020451.2:c.746_747+38del	1:26135279-26135318	del	-	-	No ExAC data for variant	NA	Pathogenic	5_5i	746_747+38del38	r.(?)	p.?	SEPN1_00075	-	germline (inherited)	-	DNA	SEQ	-	-
+NM_020451.2:c.747+39C>T	1:26135319	snp	T:0.004603	T	0.004603000	2	Unknown	5i	-	r.(?)	p.(=)	SEPN1_00104	-	unknown	http://genetics.emory.edu/egl/emvclass/emvclass.php	DNA	SEQ	-	-
+NM_020451.2:c.748-40G>A	1:26135477	snp	A:0.004042	A	0.004042000	2	No known pathogenicity	5i	-	r.(?)	p.(=)	SEPN1_00105	-	unknown	http://genetics.emory.edu/egl/emvclass/emvclass.php	DNA	SEQ	-	-
+NM_020451.2:c.802C>A	1:26135571	snp	T:8.343e-06	A	No relevant ExAC data	NA	Probably pathogenic	6	-	r.(?)	p.(Arg268Ser)	SEPN1_00069	-	germline (inherited)	-	DNA	SEQ	-	-
+NM_020451.2:c.802C>T	1:26135571	snp	T:8.343e-06	T	0.000008343	5	Mixed reported pathogenicity	6	-	r.(?)	p.(Arg268Cys)	SEPN1_00083	-	germline (inherited)	-	DNA	SEQ	-	-
+NM_020451.2:c.803G>A	1:26135572	snp	-	-	No ExAC data for variant	NA	Probably pathogenic	6	-	r.(?)	p.(Arg268His)	SEPN1_00116	-	germline (inherited)	-	DNA	PCR, SEQ	-	-
+NM_020451.2:c.817G>A	1:26135586	snp	-	-	No ExAC data for variant	NA	Pathogenic	6	817G>A (G273E); conflicting	r.(?)	p.(Gly273Arg)	SEPN1_00009	-	germline (inherited)	http://www.ncbi.nlm.nih.gov/pubmed/11528383,http://www.omim.org/entry/606210#0001	DNA	SSCA, SEQ	-	-
+NM_020451.2:c.820G>C	1:26135589	snp	C:3.337e-05	C	0.000033370	4	Mixed reported pathogenicity	6	-	r.(?)	p.(Ala274Pro)	SEPN1_00081	-	germline (inherited)	-	DNA	SEQ	-	-
+NM_020451.2:c.846C>T	1:26135615	snp	T:0.0004423,T:0.0004423	T	0.000442300	3	No known pathogenicity	6	-	r.(?)	p.(=)	SEPN1_00049	-	germline (inherited)	http://www.ncbi.nlm.nih.gov/SNP/snp_ref.cgi?type=rs&rs=rs34177164	DNA	SEQ	0.02	-
+NM_020451.2:c.863_864del	1:26135630-26135631	del	-	-	No ExAC data for variant	NA	Pathogenic	6	-	r.(?)	p.(Val288Aspfs*12)	SEPN1_00053	-	germline (inherited)	http://www.ncbi.nlm.nih.gov/pubmed/16900928,http://www.ncbi.nlm.nih.gov/pubmed/17951086	DNA	SEQ	-	-
+NM_020451.2:c.869_870del	1:26135638-26135639	del	-	-	No ExAC data for variant	NA	Pathogenic	6	869_870delTC	r.(?)	p.(Phe290Serfs*10)	SEPN1_00067	-	germline (inherited)	-	DNA	SEQ	-	-
+NM_020451.2:c.871C>T	1:26135640	snp	T:8.362e-06	T	0.000008362	5	Pathogenic	6	-	r.(?)	p.(Arg291Trp)	SEPN1_00076	-	germline (inherited)	-	DNA	SEQ	-	-
+NM_020451.2:c.872G>A	1:26135641	snp	A:8.363e-06,A:8.363e-06	A	0.000008363	5	Probably pathogenic	6	-	r.(?)	p.(Arg291Gln)	SEPN1_00039	-	germline (inherited)	-	DNA	SEQ	-	-
+NM_020451.2:c.878A>G	1:26136179	snp	G:1.659e-05,G:1.659e-05	G	0.000016590	4	Pathogenic	7	-	r.(?)	p.(His293Arg)	SEPN1_00010	-	germline (inherited)	http://www.ncbi.nlm.nih.gov/pubmed/11528383	DNA	SSCA, SEQ	-	-
+NM_020451.2:c.883G>A	1:26136184	snp	-	-	No ExAC data for variant	NA	Pathogenic	7	-	r.(?)	p.(Glu295Lys)	SEPN1_00088	-	germline (inherited)	-	DNA	SEQ	-	-
+NM_020451.2:c.893T>C	1:26136194	snp	-	-	No ExAC data for variant	NA	Probably pathogenic	7	-	r.(?)	p.(Leu298Pro)	SEPN1_00091	-	germline (inherited)	-	DNA	SEQ	-	-
+NM_020451.2:c.943G>A	1:26136244	snp	A:0.000174,A:0.000174	A	0.000174000	3	Mixed reported pathogenicity	7	-	r.(?)	p.(Gly315Ser)	SEPN1_00011	-	germline (inherited)	http://www.ncbi.nlm.nih.gov/pubmed/12192640,http://www.omim.org/entry/606210#0008	DNA	SSCA, DHPLC, SEQ	-	-
+NM_020451.2:c.944G>A	1:26136245	snp	C:8.285e-06	A	No relevant ExAC data	NA	Probably pathogenic	7	-	r.(?)	p.(Gly315Asp)	SEPN1_00092	-	germline (inherited)	-	DNA	SEQ	-	-
+NM_020451.2:c.965_967delinsCATCATCT	1:26136266-26136268	delins	-	-	No ExAC data for variant	NA	Pathogenic	7	965_967delACGinsCATCATCT	r.(?)	p.(Asp322Alafs*20)	SEPN1_00072	-	germline (inherited)	-	DNA	SEQ	-	-
+NM_020451.2:c.981C>T	1:26136282	snp	T:0.02511,T:0.02511	T	0.025110000	1	Mixed reported pathogenicity	7	(R327R)	r.(?)	p.(=)	SEPN1_00012	control chromosomes	germline (inherited)	http://www.ncbi.nlm.nih.gov/pubmed/16498447	DNA	SSCA, SEQ	10/340	-
+NM_020451.2:c.988delC	1:26136288	del	-	-	No ExAC data for variant	NA	Pathogenic	7	-	r.(?)	p.(Arg330Glyfs*10)	SEPN1_00047	-	germline (inherited)	-	DNA	SEQ	-	-
+NM_020451.2:c.997_1000del	1:26136297-26136300	del	-	-	No ExAC data for variant	NA	Pathogenic	7	997_1001delGTGC	r.(?)	p.(Val333Profs*6)	SEPN1_00065	-	germline (inherited)	-	DNA	SEQ	-	-
+NM_020451.2:c.1011-26G>T	1:26137919	snp	T:0.0002569	T	0.000256900	3	Probably not pathogenic	7i	-	r.(?)	p.(?)	SEPN1_00086	-	germline (inherited)	-	DNA	SEQ	-	-
+NM_020451.2:c.1019A>T	1:26137953	snp	T:8.282e-06,G:8.282e-06	T	0.000008282	5	Pathogenic	8	-	r.(?)	p.(Asn340Ile)	SEPN1_00013	-	germline (inherited)	http://www.ncbi.nlm.nih.gov/pubmed/12192640	DNA	SSCA, DHPLC, SEQ	-	-
+NM_020451.2:c.1021G>A	1:26137955	snp	A:8.282e-06,A:8.282e-06	A	0.000008282	5	Unknown	8	-	r.(?)	p.(Val341Met)	SEPN1_00031	-	germline (inherited)	-	DNA	SEQ	-	-
+NM_020451.2:c.1076T>C	1:26138010	snp	-	-	No ExAC data for variant	NA	Mixed reported pathogenicity	8	-	r.(?)	p.(Ile359Thr)	SEPN1_00062	-	germline (inherited)	-	DNA	SEQ	-	-
+NM_020451.2:c.1084A>G	1:26138018	snp	-	-	No ExAC data for variant	NA	Unknown	8	-	r.(?)	p.(Ile362Val)	SEPN1_00078	-	germline (inherited)	-	DNA	SEQ	-	-
+NM_020451.2:c.1092+6C>G	1:26138032	snp	T:4.141e-05,G:0.007993	G	0.007993000	2	Unknown	8i	-	r.(spl?)	p.(?)	SEPN1_00030	-	germline (inherited)	-	DNA	SEQ	-	-
+NM_020451.2:c.1093-46C>A	1:26138136	snp	A:0.7861	A	0.786100000	0	No known pathogenicity	8i	-	r.(?)	p.(=)	SEPN1_00106	-	unknown	http://genetics.emory.edu/egl/emvclass/emvclass.php	DNA	SEQ	-	-
+NM_020451.2:c.1094T>G	1:26138183	snp	-	-	No ExAC data for variant	NA	Unknown	9	-	r.(?)	p.(Met365Arg)	SEPN1_00099	-	germline (inherited)	-	DNA	PCR, SEQ	-	-
+NM_020451.2:c.1151_1153del	1:26138237-26138239	del	-:0.0001017	-	0.000101700	3	Pathogenic	9	-	r.(?)	p.(Ser384del)	SEPN1_00087	-	germline (inherited)	-	DNA	SEQ	-	-
+NM_020451.2:c.1162A>G	1:26138251	snp	G:0.001359	G	0.001359000	2	Unknown	9	-	r.(?)	p.(Ser388Gly)	SEPN1_00115	2nd variant not found with Sanger sequencing or on a custom screen for exon deletions/duplications.	unknown	-	DNA	SEQ	-	-
+NM_020451.2:c.1173T>C	1:26138262	snp	C:0.8132,C:0.8132	C	0.813200000	0	No known pathogenicity	9	-	r.(?)	p.(=)	SEPN1_00014	-	germline (inherited)	http://www.ncbi.nlm.nih.gov/SNP/snp_ref.cgi?type=rs&rs=rs760597	DNA	SEQ	0.70-0.95	-
+NM_020451.2:c.1249C>T	1:26138338	snp	T:0	T	0.000000000	9	Probably pathogenic	9	-	r.(?)	p.(Arg417Cys)	SEPN1_00114	-	germline (inherited)	-	DNA	PCR, SEQ	-	-
+NM_020451.2:c.1281+2T>C	1:26138372	snp	-	-	No ExAC data for variant	NA	Pathogenic	9i	-	r.spl?	p.?	SEPN1_00082	-	germline (inherited)	-	DNA	SEQ	-	-
+NM_020451.2:c.1281+42G>A	1:26138412	snp	A:0.001827	A	0.001827000	2	Unknown	9i	-	r.(?)	p.(=)	SEPN1_00107	-	unknown	http://genetics.emory.edu/egl/emvclass/emvclass.php	DNA	SEQ	-	-
+NM_020451.2:c.1282-41C>T	1:26139137	snp	T:0.7944	T	0.794400000	0	No known pathogenicity	9i	-	r.(?)	p.(=)	SEPN1_00108	-	unknown	http://genetics.emory.edu/egl/emvclass/emvclass.php	DNA	SEQ	-	-
+NM_020451.2:c.1282-3C>T	1:26139175	snp	-	-	No ExAC data for variant	NA	Unknown	9i	-	r.(=)	p.(=)	SEPN1_00032	-	germline (inherited)	-	DNA	SEQ	-	-
+NM_020451.2:c.1282-2A>C	1:26139176	snp	-	-	No ExAC data for variant	NA	Mixed reported pathogenicity	9i	-	r.spl?	p.?	SEPN1_00040	-	germline (inherited)	-	DNA	SEQ	-	-
+NM_020451.2:c.1315C>T	1:26139211	snp	T:4.613e-05,T:4.613e-05	T	0.000046130	4	Pathogenic	10	1370C>T	r.(?)	p.(Arg439*)	SEPN1_00015	-	germline (inherited)	http://www.ncbi.nlm.nih.gov/pubmed/15792869	DNA	SEQ	-	-
+NM_020451.2:c.1329G>A	1:26139225	snp	-	-	No ExAC data for variant	NA	No known pathogenicity	10	-	r.(?)	p.(=)	SEPN1_00046	-	germline (inherited)	http://www.ncbi.nlm.nih.gov/SNP/snp_ref.cgi?type=rs&rs=rs12023720	DNA	SEQ	-	-
+NM_020451.2:c.1332_1334del	1:26139226-26139228	del	-	-	No ExAC data for variant	NA	Mixed reported pathogenicity	10	1332_1334delCAA	r.(?)	p.(Asn444del)	SEPN1_00063	-	germline (inherited)	-	DNA	SEQ	-	-
+NM_020451.2:c.1358G>C	1:26139254	snp	-	-	No ExAC data for variant	NA	Pathogenic	10	-	r.(?)	p.(Trp453Ser)	SEPN1_00016	-	germline (inherited)	http://www.ncbi.nlm.nih.gov/pubmed/12192640,http://www.omim.org/entry/606210#0005	DNA	SSCA, DHPLC, SEQ	-	-
+NM_020451.2:c.1384T>G	1:26139280	snp	-	-	No ExAC data for variant	NA	Pathogenic	10	-	r.(?)	p.(Scy462Gly)	SEPN1_00017	-	germline (inherited)	http://www.ncbi.nlm.nih.gov/pubmed/12192640,http://www.omim.org/entry/606210#0007	DNA	SSCA, DHPLC, SEQ	-	-
+NM_020451.2:c.1385G>A	1:26139281	snp	-	-	No ExAC data for variant	NA	Pathogenic	10	-	r.(?)	p.(Scy462*)	SEPN1_00018	-	germline (inherited)	http://www.ncbi.nlm.nih.gov/pubmed/11528383,http://www.omim.org/entry/606210#0002	DNA	SSCA, SEQ	-	-
+NM_020451.2:c.1386A>G	1:26139282	snp	-	-	No ExAC data for variant	NA	Pathogenic	10	-	r.(?)	p.(Scy462Gly)	SEPN1_00019	mRNA level 0.37	germline (inherited)	http://www.ncbi.nlm.nih.gov/pubmed/16498447	DNA	SEQ	-	-
+NM_020451.2:c.1387+1G>A	1:26139284	snp	-	-	No ExAC data for variant	NA	Pathogenic	10i	-	r.spl?	p.?	SEPN1_00084	-	germline (inherited)	-	DNA	SEQ	-	-
+NM_020451.2:c.1387+11C>T	1:26139294	snp	T:0.006564	T	0.006564000	2	No known pathogenicity	10i	-	r.(?)	p.(=)	SEPN1_00109	-	unknown	http://genetics.emory.edu/egl/emvclass/emvclass.php	DNA	SEQ	-	-
+NM_020451.2:c.1388G>T	1:26140372	snp	-	-	No ExAC data for variant	NA	Mixed reported pathogenicity	11	-	r.(spl?)	p.(Glu463Val)	SEPN1_00051	cloned in pUGA2SECIS; in vitro Sec insertion efficiency reduced	germline (inherited)	http://www.ncbi.nlm.nih.gov/pubmed/19067361	DNA	SEQ	-	-
+NM_020451.2:c.1396C>T	1:26140380	snp	T:8.291e-06	T	0.000008291	5	Probably pathogenic	11	-	r.(?)	p.(Arg466Trp)	SEPN1_00090	-	germline (inherited)	-	DNA	SEQ	-	-
+NM_020451.2:c.1397G>A	1:26140381	snp	A:5.804e-05,A:5.804e-05	A	0.000058040	4	Mixed reported pathogenicity	11	-	r.(?)	p.(Arg466Gln)	SEPN1_00020	-	germline (inherited)	http://www.ncbi.nlm.nih.gov/pubmed/11528383,http://www.omim.org/entry/606210#0004	DNA	SSCA, SEQ	-	-
+NM_020451.2:c.1405C>T	1:26140389	snp	T:2.487e-05,T:2.487e-05	T	0.000024870	4	Mixed reported pathogenicity	11	-	r.(?)	p.(Arg469Trp)	SEPN1_00026	cloned in pUGA2SECIS; Sec in vitro insertion efficiency unaffected	germline (inherited)	http://www.ncbi.nlm.nih.gov/pubmed/19067361	DNA	SEQ	-	-
+NM_020451.2:c.1406G>A	1:26140390	snp	T:8.29e-06	A	No relevant ExAC data	NA	Mixed reported pathogenicity	11	-	r.(?)	p.(Arg469Gln)	SEPN1_00052	cloned in pUGA2SECIS; Sec in vitro insertion efficiency unaffected	germline (inherited)	http://www.ncbi.nlm.nih.gov/pubmed/19067361	DNA	SEQ	-	-
+NM_020451.2:c.1446delC	1:26140430	del	-	-	No ExAC data for variant	NA	Pathogenic	11	1446delC	r.(?)	p.(Asn483Thrfs*11)	SEPN1_00021	mRNA level 0.04	germline (inherited)	http://www.ncbi.nlm.nih.gov/pubmed/11528383,http://www.ncbi.nlm.nih.gov/pubmed/16498447	DNA	SSCA, SEQ	-	-
+NM_020451.2:c.1469G>A	1:26140453	snp	-	-	No ExAC data for variant	NA	Probably pathogenic	11	-	r.(?)	p.(Trp490*)	SEPN1_00057	-	germline (inherited)	-	DNA	SEQ	-	-
+NM_020451.2:c.1469G>T	1:26140453	snp	-	-	No ExAC data for variant	NA	Mixed reported pathogenicity	11	-	r.(?)	p.(Trp490Leu)	SEPN1_00054	-	germline (inherited)	http://www.ncbi.nlm.nih.gov/pubmed/16900928,http://www.ncbi.nlm.nih.gov/pubmed/17951086	DNA	SEQ	-	-
+NM_020451.2:c.1500+7G>A	1:26140491	snp	A:0.0001492	A	0.000149200	3	Unknown	11i	-	r.(?)	p.(=)	SEPN1_00110	-	unknown	http://genetics.emory.edu/egl/emvclass/emvclass.php	DNA	SEQ	-	-
+NM_020451.2:c.1501-31C>T	1:26140537	snp	T:0.01398,T:0.01398	T	0.013980000	1	Mixed reported pathogenicity	11i	-	r.(=)	p.(=)	SEPN1_00033	-	germline (inherited)	-	DNA	SEQ	-	-
+NM_020451.2:c.1506C>A	1:26140573	snp	A:0.7747,A:0.7747	A	0.774700000	0	No known pathogenicity	12	-	r.(?)	p.(Asn520Lys)	SEPN1_00022	-	germline (inherited)	http://www.ncbi.nlm.nih.gov/SNP/snp_ref.cgi?type=rs&rs=rs2294228	DNA	SEQ	0.04-0.95	-
+NM_020451.2:c.1574T>G	1:26140641	snp	G:5.947e-05,G:5.947e-05	G	0.000059470	4	Unknown	12	-	r.(?)	p.(Met525Arg)	SEPN1_00045	-	germline (inherited)	-	DNA	PCR, SEQ	-	-
+NM_020451.2:c.1578_1580del	1:26140639-26140641	del	-	-	No ExAC data for variant	NA	Unknown	12	-	r.(?)	p.(Met526del)	SEPN1_00058	-	germline (inherited)	-	DNA	SEQ	-	-
+NM_020451.2:c.1592A>G	1:26140659	snp	G:0.000142	G	0.000142000	3	Unknown	12	-	r.(?)	p.(Asn531Ser)	SEPN1_00085	-	germline (inherited)	-	DNA	SEQ	-	-
+NM_020451.2:c.1596C>T	1:26140663	snp	T:0.0002886,T:0.0002886	T	0.000288600	3	Probably not pathogenic	12	-	r.(?)	p.(=)	SEPN1_00025	-	germline (inherited)	-	DNA	SEQ	-	-
+NM_020451.2:c.1602+1G>A	1:26140670	snp	A:9.266e-06,A:9.266e-06	A	0.000009266	5	Probably pathogenic	12i	-	r.spl?	p.(del?)	SEPN1_00061	-	germline (inherited)	-	DNA	PCR, SEQ	-	-
+NM_020451.2:c.1603-2A>G	1:26142037	snp	-	-	No ExAC data for variant	NA	Pathogenic	12i	IVS13-2A>G	r.spl?	p.?	SEPN1_00024	-	germline (inherited)	http://www.ncbi.nlm.nih.gov/pubmed/16365872	DNA	SEQ	-	-
+NM_020451.2:c.1623C>T	1:26142059	snp	T:0.0003976	T	0.000397600	3	Probably not pathogenic	13	Asn541Asn	r.(?)	p.(=)	SEPN1_00098	-	germline (inherited)	-	DNA	SEQ	-	-
+NM_020451.2:c.1636A>G	1:26142072	snp	G:8.282e-06	G	0.000008282	5	Unknown	13	-	r.(?)	p.(Ile546Val)	SEPN1_00089	-	germline (inherited)	-	DNA	SEQ	-	-
+NM_020451.2:c.1645G>A	1:26142081	snp	A:0.002981,A:0.002981	A	0.002981000	2	Unknown	13	-	r.(?)	p.(Val549Met)	SEPN1_00034	-	germline (inherited)	-	DNA	SEQ	-	-
+NM_020451.2:c.1654G>A	1:26142090	snp	A:0.0003561	A	0.000356100	3	Unknown	13	-	r.(?)	p.(Glu552Lys)	SEPN1_00094	-	germline (inherited)	-	DNA	SEQ	-	-
+NM_020451.2:c.1707C>G	1:26142143	snp	-	-	No ExAC data for variant	NA	Probably not pathogenic	13	Ser569Ser	r.(?)	p.(=)	SEPN1_00097	-	germline (inherited)	-	DNA	SEQ	-	-
+NM_020451.2:c.1715C>A	1:26142151	snp	A:0.0003976	A	0.000397600	3	Unknown	13	-	r.(?)	p.(Thr572Asn)	SEPN1_00111	-	unknown	http://genetics.emory.edu/egl/emvclass/emvclass.php	DNA	SEQ	-	-
+NM_020451.2:c.1730T>C	1:26142166	snp	-	-	No ExAC data for variant	NA	Probably pathogenic	13	-	r.(?)	p.(Leu577Pro)	SEPN1_00070	-	germline (inherited)	-	DNA	SEQ	-	-
+NM_020451.2:c.1745G>A	1:26142181	snp	A:0.006889	A	0.006889000	2	Mixed reported pathogenicity	13	-	r.(?)	p.(Arg582Gln)	SEPN1_00079	-	germline (inherited)	-	DNA	SEQ	-	-
+NM_020451.2:c.*44G>T	1:26142253	snp	T:0.002919,T:0.002919	T	0.002919000	2	Unknown	13	-	r.(?)	p.(=)	SEPN1_00035	-	germline (inherited)	-	DNA	SEQ	-	-
+NM_020451.2:c.*1107T>C	1:26143316	snp	-	-	No ExAC data for variant	NA	Pathogenic	13	g.17195C>T	r.*1107u>c	p.=	SEPN1_00023	mRNA level 0.25; affects SECIS element	germline (inherited)	http://www.ncbi.nlm.nih.gov/pubmed/16498447	DNA, RNA	RT-PCR, SEQ, SSCA	-	-
+NM_020451.2:c.*1612T>C	1:26143821	snp	-	-	No ExAC data for variant	NA	No known pathogenicity	13	-	r.(?)	p.(=)	SEPN1_00041	-	germline (inherited)	http://www.ncbi.nlm.nih.gov/SNP/snp_ref.cgi?type=rs&rs=rs3203750	DNA	SEQ	0.04	-
+NM_020451.2:c.*1722T>C	1:26143931	snp	-	-	No ExAC data for variant	NA	No known pathogenicity	13	-	r.(?)	p.(=)	SEPN1_00042	-	germline (inherited)	http://www.ncbi.nlm.nih.gov/SNP/snp_ref.cgi?type=rs&rs=rs4659383	DNA	SEQ	-	-
+NM_020451.2:c.*2336A>T	1:26144545	snp	-	-	No ExAC data for variant	NA	No known pathogenicity	13	-	r.(?)	p.(=)	SEPN1_00043	-	germline (inherited)	http://www.ncbi.nlm.nih.gov/SNP/snp_ref.cgi?type=rs&rs=rs1044183	DNA	SEQ	0-0.12	-
+NM_020451.2:c.*2465G>A	1:26144674	snp	-	-	No ExAC data for variant	NA	No known pathogenicity	13	-	r.(?)	p.(=)	SEPN1_00044	-	germline (inherited)	http://www.ncbi.nlm.nih.gov/SNP/snp_ref.cgi?type=rs&rs=rs6872	DNA	SEQ	0.01-0.47	-

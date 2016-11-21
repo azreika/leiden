@@ -1,0 +1,2 @@
+leiden_reported_variant	location	type	raw_allele_frequency	deduced_new_base	deduced_allele_frequency	band	reported_pathogenicity	exon	var_pub_as	rna_change	protein_change	db_id	variant_remarks	genet_ori	reference	template	technique	frequency	re_site
+NM_000166.5:c.370A>G	X:70443927	snp	-	-	No ExAC data for variant	NA	Probably pathogenic	2	-	r.(?)	p.(Lys124Glu)	GJB1_00297	-	germline (inherited)	-	DNA	SEQ-NG-I	-	-

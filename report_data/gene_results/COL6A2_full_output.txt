@@ -1,0 +1,2 @@
+leiden_reported_variant	location	type	raw_allele_frequency	deduced_new_base	deduced_allele_frequency	band	reported_pathogenicity	exon	var_pub_as	rna_change	protein_change	db_id	variant_remarks	genet_ori	segregation	reference	template	technique	frequency	re_site
+NM_001849.3:c.116-34G>A	21:47531859	snp	A:0.02248	A	0.022480000	1	Unknown	2i	-	r.(?)	p.(=)	COL6A2_00069	http://genetics.emory.edu/egl/emvclass/emvclass.php	unknown	-	-	DNA	SEQ	-	-

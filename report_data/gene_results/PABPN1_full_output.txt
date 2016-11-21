@@ -1,0 +1,6 @@
+leiden_reported_variant	location	type	raw_allele_frequency	deduced_new_base	deduced_allele_frequency	band	reported_pathogenicity	exon	var_pub_as	rna_change	protein_change	db_id	variant_remarks	genet_ori	reference	template	technique	frequency	re_site
+NM_004643.3:c.27A>G	14:23790705	snp	-	-	No ExAC data for variant	NA	Unknown	1	-	r.(?)	p.(=)	PABPN1_00018	-	unknown	http://genetics.emory.edu/egl/emvclass/emvclass.php	DNA	SEQ	-	-
+NM_004643.3:c.35G>C	14:23790713	snp	-	-	No ExAC data for variant	NA	Mixed reported pathogenicity	1	Ala[13]	r.(?)	p.(Gly12Ala)	PABPN1_00017	found 1/202 patients, not in 160 control chromosomes	germline (inherited)	http://www.ncbi.nlm.nih.gov/pubmed/16648376,http://www.omim.org/entry/602279#0003	DNA	PCR, SEQ	1/404	-
+NM_004643.3:c.186G>A	14:23790864	snp	A:0.0476	A	0.047600000	1	Unknown	1	-	r.(?)	p.(=)	PABPN1_00019	-	unknown	http://genetics.emory.edu/egl/emvclass/emvclass.php	DNA	SEQ	-	-
+NM_004643.3:c.474G>A	14:23792215	snp	A:0.02708	A	0.027080000	1	No known pathogenicity	3	-	r.(?)	p.(=)	PABPN1_00020	-	unknown	http://genetics.emory.edu/egl/emvclass/emvclass.php	DNA	SEQ	-	-
+NM_004643.3:c.730-42C>T	14:23793305	snp	T:0.1142	T	0.114200000	0	No known pathogenicity	5i	729+44C>T	r.(?)	p.(=)	PABPN1_00021	-	unknown	http://genetics.emory.edu/egl/emvclass/emvclass.php	DNA	SEQ	-	-

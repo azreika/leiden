@@ -1,0 +1,4 @@
+leiden_reported_variant	location	type	raw_allele_frequency	deduced_new_base	deduced_allele_frequency	band	reported_pathogenicity	exon	var_pub_as	rna_change	protein_change	db_id	variant_remarks	genet_ori	reference	template	technique	frequency	re_site
+NM_001122853.2:c.62-46T>G	5:150050000	snp	-	-	No ExAC data for variant	NA	Probably not pathogenic	2i	61-46G>T	r.(=)	p.(=)	MYOZ3_00001	-	germline (inherited)	http://www.ncbi.nlm.nih.gov/pubmed/19472918	DNA	DHPLC, SEQ	3/180	-
+NM_001122853.2:c.425-51G>A	5:150051851	snp	A:0.03095	A	0.030950000	1	Probably not pathogenic	5i	424-51G>A	r.(=)	p.(=)	MYOZ3_00002	-	germline (inherited)	http://www.ncbi.nlm.nih.gov/pubmed/19472918	DNA	DHPLC, SEQ	9/180	-
+NM_001122853.2:c.588-56T>A	5:150056213	snp	-	-	No ExAC data for variant	NA	Probably not pathogenic	6i	587-56T>A	r.(=)	p.(=)	MYOZ3_00003	-	germline (inherited)	http://www.ncbi.nlm.nih.gov/pubmed/19472918	DNA	DHPLC, SEQ	7/180	-

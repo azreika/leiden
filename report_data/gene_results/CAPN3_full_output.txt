@@ -1,0 +1,479 @@
+leiden_reported_variant	location	type	raw_allele_frequency	deduced_new_base	deduced_allele_frequency	band	reported_pathogenicity	exon	var_pub_as	rna_change	protein_change	db_id	variant_remarks	genet_ori	segregation	reference	template	technique	frequency	re_site
+NM_000070.2:c.-763C>G	15:42651241	snp	-	-	No ExAC data for variant	NA	No known pathogenicity	1	-	r.(?)	p.(=)	CAPN3_00177	-	germline (inherited)	-	-	DNA	DHPLC	1/76	-
+NM_000070.2:c.-719A>T	15:42651285	snp	-	-	No ExAC data for variant	NA	No known pathogenicity	1	-	r.(?)	p.(=)	CAPN3_00176	-	germline (inherited)	-	-	DNA	DHPLC	4/76	-
+NM_000070.2:c.-552G>A	15:42651452	snp	-	-	No ExAC data for variant	NA	Unknown	1	-	r.(?)	p.(=)	CAPN3_00262	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/15733273	DNA	SEQ	-	-
+NM_000070.2:c.-408T>C	15:42651596	snp	-	-	No ExAC data for variant	NA	Mixed reported pathogenicity	1	-	r.(?)	p.(=)	CAPN3_00049	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/10330340	DNA	SSCA	-	-
+NM_000070.2:c.-322A>C	15:42651682	snp	-	-	No ExAC data for variant	NA	No known pathogenicity	1	-	r.(?)	p.(=)	CAPN3_00175	-	germline (inherited)	-	-	DNA	DHPLC	2/76	-
+NM_000070.2:c.-104G>C	15:42651900	snp	-	-	No ExAC data for variant	NA	Mixed reported pathogenicity	1	-	r.-104g>c	p.(=)	CAPN3_00171	-	germline (inherited)	-	-	DNA	DHPLC	3/76	-
+NM_000070.2:c.8C>A	15:42652011	snp	A:1.66e-05,T:8.302e-06	A	0.000016600	4	Pathogenic	1	-	r.(?)	p.(Thr3Asn)	CAPN3_00332	-	germline (inherited)	-	-	DNA	SSCA	-	-
+NM_000070.2:c.9C>T	15:42652012	snp	-	-	No ExAC data for variant	NA	No known pathogenicity	1	-	r.(?)	p.(=)	CAPN3_00050	determined on >100 chromosomes	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/10330340	DNA	SSCA	<0.01	-
+NM_000070.2:c.10G>A	15:42652013	snp	A:0.0001743,A:0.0001743	A	0.000174300	3	Pathogenic	1	-	r.(?)	p.(Val4Ile)	CAPN3_00051	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/10330340	DNA	SSCA	-	-
+NM_000070.2:c.19_23del	15:42652021-42652025	del	-	-	No ExAC data for variant	NA	Pathogenic	1	-	r.(?)	p.(Ala7Cysfs*8)	CAPN3_00020	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/09150160,http://www.ncbi.nlm.nih.gov/pubmed/09266733	DNA	SEQ	-	HpaII-
+NM_000070.2:c.59delC	15:42652059	del	-	-	No ExAC data for variant	NA	Pathogenic	1	-	r.(?)	p.(Pro20Glnfs*37)	CAPN3_00530	-	germline (inherited)	yes	-	DNA	SEQ	-	-
+NM_000070.2:c.60delA	15:42652063	del	C:8.288e-06	C	0.000008288	5	Pathogenic	1	-	r.(?)	p.(Pro22Glnfs*35)	CAPN3_00052	-	germline (inherited)	-	Ginjaar WMS2005	DNA	DGGE	-	BsrI+
+NM_000070.2:c.62G>A	15:42652065	snp	A:0.003828,A:0.003828	A	0.003828000	2	Mixed reported pathogenicity	1	-	r.(?)	p.(Gly21Glu)	CAPN3_00265	-	germline (inherited)	-	-	DNA	SEQ	-	-
+NM_000070.2:c.77C>T	15:42652080	snp	T:2.483e-05,G:1.655e-05	T	0.000024830	4	Pathogenic	1	-	r.(?)	p.(Pro26Leu)	CAPN3_00053	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/10330340	DNA	SEQ	-	NlaIV-
+NM_000070.2:c.78G>A	15:42652081	snp	A:0.004907,T:8.275e-06	A	0.004907000	2	No known pathogenicity	1	-	r.(?)	p.(=)	CAPN3_00513	http://genetics.emory.edu/egl/emvclass/emvclass.php	unknown	-	-	DNA	SEQ	-	-
+NM_000070.2:c.96T>C	15:42652099	snp	C:0.09319,C:0.09319	C	0.093190000	1	Mixed reported pathogenicity	1	-	r.(?)	p.(=)	CAPN3_00061	-	germline (inherited)	-	-	DNA	SEQ	-	-
+NM_000070.2:c.100delG	15:42652102	del	-	-	No ExAC data for variant	NA	Pathogenic	1	-	r.(?)	p.(Ala34fs*23)	CAPN3_00165	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/15221789,http://www.ncbi.nlm.nih.gov/pubmed/16816913	DNA	DHPLC	-	-
+NM_000070.2:c.133G>A	15:42652136	snp	A:1.648e-05,A:1.648e-05	A	0.000016480	4	Mixed reported pathogenicity	1	-	r.133g>a	p.Ala45Thr	CAPN3_00167	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/15351423,http://www.ncbi.nlm.nih.gov/pubmed/16372320,http://www.ncbi.nlm.nih.gov/pubmed/17157502	DNA, RNA	RT-PCR, SEQ, DHPLC	-	-
+NM_000070.2:c.139A>T	15:42652142	snp	-	-	No ExAC data for variant	NA	Unknown	1	-	r.(?)	p.(Ile47Phe)	CAPN3_00531	-	unknown	?	-	DNA	SEQ	-	-
+NM_000070.2:c.140_142del	15:42652138-42652140	del	-:8.239e-06	-	0.000008239	5	Pathogenic	1	-	r.(?)	p.(Ile47del)	CAPN3_00193	-	germline (inherited)	-	-	DNA	SSCA	-	-
+NM_000070.2:c.143G>A	15:42652146	snp	A:1.648e-05,A:1.648e-05	A	0.000016480	4	Pathogenic	1	-	r.(?)	p.(Ser48Asn)	CAPN3_00201	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/15221789,http://www.ncbi.nlm.nih.gov/pubmed/16141003	DNA	DHPLC	-	-
+NM_000070.2:c.145C>T	15:42652148	snp	-	-	No ExAC data for variant	NA	Pathogenic	1	-	r.(?)	p.(Arg49Cys)	CAPN3_00263	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/18055493	DNA	SEQ	-	-
+NM_000070.2:c.146G>A	15:42652149	snp	-	-	No ExAC data for variant	NA	Pathogenic	1	-	r.(?)	p.(Arg49His)	CAPN3_00190	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/14981715,http://www.ncbi.nlm.nih.gov/pubmed/16100770	DNA	PCR	-	-
+NM_000070.2:c.149A>G	15:42652152	snp	-	-	No ExAC data for variant	NA	Pathogenic	1	-	r.(?)	p.(Asn50Ser)	CAPN3_00303	-	germline (inherited)	-	-	DNA	SSCA	-	-
+NM_000070.2:c.163G>A	15:42652166	snp	A:8.238e-06,A:8.238e-06	A	0.000008238	5	Unknown	1	-	r.(?)	p.(Gly55Arg)	CAPN3_00239	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/16141003	DNA	DHPLC	-	-
+NM_000070.2:c.193C>G	15:42652196	snp	-	-	No ExAC data for variant	NA	Pathogenic	1	-	r.(?)	p.(His65Asp)	CAPN3_00412	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/18055493	DNA	SEQ	-	-
+NM_000070.2:c.206T>C	15:42652209	snp	-	-	No ExAC data for variant	NA	Pathogenic	1	-	r.(?)	p.(Leu69Pro)	CAPN3_00312	-	germline (inherited)	-	-	DNA	SSCA	-	-
+NM_000070.2:c.224A>G	15:42652227	snp	-	-	No ExAC data for variant	NA	Pathogenic	1	-	r.224a>g	p.Tyr75Cys	CAPN3_00371	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/17157502	DNA, RNA	RT-PCR, DHPLC, SEQ	-	-
+NM_000070.2:c.225dupT	15:42652227-42652228	dup	-	-	No ExAC data for variant	NA	Pathogenic	1	-	r.(?)	p.(Val76Cysfs*4)	CAPN3_00054	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/10330340	DNA	SEQ	-	-
+NM_000070.2:c.229G>A	15:42652232	snp	-	-	No ExAC data for variant	NA	Pathogenic	1	-	r.(?)	p.(Asp77Asn)	CAPN3_00056	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/16141003	DNA	DHPLC	-	Cfr10I-;NspBII+
+NM_000070.2:c.232C>A	15:42652235	snp	A:0.0003709,T:8.242e-06	A	0.000370900	3	Probably pathogenic	1	-	r.(?)	p.(Pro78Thr)	CAPN3_00444	-	germline (inherited)	-	-	DNA	SEQ	-	-
+NM_000070.2:c.235G>C	15:42652238	snp	-	-	No ExAC data for variant	NA	Unknown	1	-	r.(?)	p.(Glu79Gln)	CAPN3_00532	-	unknown	?	-	DNA	SEQ	-	-
+NM_000070.2:c.240C>G	15:42652243	snp	-	-	No ExAC data for variant	NA	Pathogenic	1	-	r.(?)	p.(Phe80Leu)	CAPN3_00429	control chromosomes	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/17994539	DNA	SEQ	-	-
+NM_000070.2:c.245C>T	15:42652248	snp	-	-	No ExAC data for variant	NA	Mixed reported pathogenicity	1	-	r.(?)	p.(Pro82Leu)	CAPN3_00143	-	germline (inherited)	-	-	DNA	SEQ	-	-
+NM_000070.2:c.246G>A	15:42652249	snp	A:0.0001237,A:0.0001237	A	0.000123700	3	Mixed reported pathogenicity	1	-	r.(?)	p.(=)	CAPN3_00379	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/16650086	DNA	DHPLC	-	-
+NM_000070.2:c.249_253del	15:42652250-42652254	del	-	-	No ExAC data for variant	NA	Pathogenic	1	-	r.(?)	p.(Glu84Leufs*5)	CAPN3_00192	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/16141003	DNA	DHPLC	-	-
+NM_000070.2:c.257C>T	15:42652260	snp	-	-	No ExAC data for variant	NA	Pathogenic	1	-	r.257c>u	p.Ser86Phe	CAPN3_00021	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/09150160,http://www.omim.org/entry/114240#0004	DNA, RNA	HD, RT-PCR, SEQ	-	-
+NM_000070.2:c.258dupT	15:42652260-42652261	dup	T:1.649e-05	T	0.000016490	4	Pathogenic	1	-	r.(?)	p.(Leu87Serfs*4)	CAPN3_00380	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/16650086	DNA	DHPLC	-	-
+NM_000070.2:c.259C>G	15:42652262	snp	G:0.0001814,G:0.0001814	G	0.000181400	3	Pathogenic	1	-	r.(?)	p.(Leu87Val)	CAPN3_00219	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/16141003	DNA	DHPLC	-	-
+NM_000070.2:c.260dupT	15:42652262-42652263	dup	-	-	No ExAC data for variant	NA	Pathogenic	1	-	r.(?)	p.(p.(Phe88Leufs*3)	CAPN3_00370	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/15221789	DNA	DHPLC	-	-
+NM_000070.2:c.260_265delinsGA	15:42652263-42652268	delins	-	-	No ExAC data for variant	NA	Pathogenic	1	-	r.(?)	p.(Leu87Argfs*39)	CAPN3_00144	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/12461690	DNA	SSCA, DHPLC	-	-
+NM_000070.2:c.266A>G	15:42652269	snp	-	-	No ExAC data for variant	NA	No known pathogenicity	1	-	r.(?)	p.(Tyr89Cys)	CAPN3_00536	-	unknown	?	-	DNA	SEQ	-	-
+NM_000070.2:c.277_300del	15:42652276-42652299	del	-	-	No ExAC data for variant	NA	Pathogenic	1	-	r.(?)	p.(Phe93_Lys100del)	CAPN3_00057	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/10330340	DNA	SEQ	-	-
+NM_000070.2:c.286delC	15:42652288	del	T:8.257e-06	T	0.000008257	5	Pathogenic	1	-	r.(?)	p.(Gln96Serfs*31)	CAPN3_00420	control chromosomes	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/17994539	DNA	SEQ	-	-
+NM_000070.2:c.291C>A	15:42652294	snp	T:8.262e-06	A	No relevant ExAC data	NA	Pathogenic	1	-	r.(?)	p.(Phe97Leu)	CAPN3_00264	-	germline (inherited)	-	-	DNA	SEQ	-	-
+NM_000070.2:c.292G>A	15:42652295	snp	A:0.0001818,A:0.0001818	A	0.000181800	3	Unknown	1	-	r.(?)	p.(Val98Ile)	CAPN3_00240	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/16141003	DNA	DHPLC	-	-
+NM_000070.2:c.294C>G	15:42652297	snp	A:8.264e-06,G:9.09e-05	G	0.000090900	4	Unknown	1	-	r.(?)	p.(=)	CAPN3_00514	http://genetics.emory.edu/egl/emvclass/emvclass.php	unknown	-	-	DNA	SEQ	-	-
+NM_000070.2:c.302G>A	15:42652305	snp	-	-	No ExAC data for variant	NA	Pathogenic	1	-	r.(?)	p.(Arg101Lys)	CAPN3_00317	-	germline (inherited)	-	-	DNA	SSCA	-	-
+NM_000070.2:c.304C>T	15:42652307	snp	-	-	No ExAC data for variant	NA	Pathogenic	1	-	r.(?)	p.(Pro102Ser)	CAPN3_00220	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/16141003	DNA	DHPLC	-	-
+NM_000070.2:c.308C>T	15:42652311	snp	T:3.312e-05,T:3.312e-05	T	0.000033120	4	Pathogenic	1	-	r.(?)	p.(Pro103Leu)	CAPN3_00221	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/16141003	DNA	DHPLC	-	-
+NM_000070.2:c.309G>A	15:42652312	snp	A:1.656e-05,A:1.656e-05	A	0.000016560	4	Unknown	1	-	r.0	p.0	CAPN3_00402	-	germline (inherited)	-	-	DNA, RNA	SEQ	-	-
+NM_000070.2:c.309+1G>T	15:42652313	snp	-	-	No ExAC data for variant	NA	Pathogenic	1i	-	r.spl?	p.(?)	CAPN3_00122	-	germline (inherited)	-	Ginjaar WMS2005	DNA	DGGE	-	-
+NM_000070.2:c.309+41G>A	15:42652353	snp	A:0.0003085	A	0.000308500	3	Unknown	1i	-	r.(?)	p.(=)	CAPN3_00515	http://genetics.emory.edu/egl/emvclass/emvclass.php	unknown	-	-	DNA	SEQ	-	-
+NM_000070.2:c.309+4469_1116-1204del	15:42656777-42687790	del	-	-	No ExAC data for variant	NA	Pathogenic	1i	-	r.[310_1115del, -52_269del;310_1115del]	p.[Glu104Metfs*11, 0?]	CAPN3_00295	custom-design NimbleGen array	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/17979987	DNA, RNA	arrayCGH, DHPLC, RT-PCR, SEQ	-	-
+NM_000070.2:c.318C>T	15:42676689	snp	T:0.004769,T:0.004769	T	0.004769000	2	Mixed reported pathogenicity	2	-	r.(?)	p.(=)	CAPN3_00058	-	germline (inherited)	-	-	DNA	SEQ	-	-
+NM_000070.2:c.319G>A	15:42676690	snp	A:0.01043,A:0.01043	A	0.010430000	1	Mixed reported pathogenicity	2	-	r.(?)	p.(Glu107Lys)	CAPN3_00059	-	germline (inherited)	-	Politano et al., Neuromuscul.Disord. 12: 733	DNA	SEQ	-	-
+NM_000070.2:c.327_328del	15:42676696-42676697	del	-	-	No ExAC data for variant	NA	Pathogenic	2	-	r.(?)	p.(Arg110Ilefs*4)	CAPN3_00266	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/18055493	DNA	SEQ	-	-
+NM_000070.2:c.328C>T	15:42676699	snp	A:8.237e-06	T	No relevant ExAC data	NA	Pathogenic	2	-	r.(?)	p.(Arg110*)	CAPN3_00001	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/12461690	DNA	SSCA, DHPLC	-	-
+NM_000070.2:c.332T>C	15:42676703	snp	-	-	No ExAC data for variant	NA	Pathogenic	2	-	r.(?)	p.(Phe111Ser)	CAPN3_00318	-	germline (inherited)	-	-	DNA	SSCA	-	-
+NM_000070.2:c.352A>G	15:42676723	snp	-	-	No ExAC data for variant	NA	Pathogenic	2	-	r.(?)	p.(Arg118Gly)	CAPN3_00060	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/10330340	DNA	SEQ	-	-
+NM_000070.2:c.358G>A	15:42676729	snp	A:8.237e-06,A:8.237e-06	A	0.000008237	5	Pathogenic	2	-	r.(?)	p.(Asp120Asn)	CAPN3_00319	-	germline (inherited)	-	-	DNA	SSCA	-	-
+NM_000070.2:c.363C>G	15:42676734	snp	-	-	No ExAC data for variant	NA	Unknown	2	-	r.(?)	p.(Ile121Met)	CAPN3_00401	-	germline (inherited)	-	-	DNA	SEQ	-	-
+NM_000070.2:c.379G>C	15:42676750	snp	-	-	No ExAC data for variant	NA	Probably pathogenic	2	-	r.(?)	p.(Gly127Arg)	CAPN3_00533	-	unknown	?	-	DNA	SEQ	-	-
+NM_000070.2:c.379+5G>A	15:42676755	snp	-	-	No ExAC data for variant	NA	Probably pathogenic	2i	-	r.(spl?)	p.(?)	CAPN3_00529	-	germline (inherited)	-	-	DNA	PCR, SEQ	-	-
+NM_000070.2:c.379+423T>A	15:42677173	snp	-	-	No ExAC data for variant	NA	Probably not pathogenic	2i	-	r.(?)	p.(=)	CAPN3_00507	-	germline (inherited)	-	-	DNA	SEQ	-	-
+NM_000070.2:c.379+432T>A	15:42677182	snp	-	-	No ExAC data for variant	NA	Probably not pathogenic	2i	-	r.(?)	p.(=)	CAPN3_00508	-	germline (inherited)	-	-	DNA	SEQ	-	-
+NM_000070.2:c.380-52T>G	15:42678313	snp	-	-	No ExAC data for variant	NA	No known pathogenicity	2i	-	r.(=)	p.(=)	CAPN3_00174	-	germline (inherited)	-	-	DNA	DHPLC	1/76	-
+NM_000070.2:c.380-27C>T	15:42678338	snp	T:0.004523,T:0.004523	T	0.004523000	2	No known pathogenicity	2i	-	r.(=)	p.(=)	CAPN3_00339	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/15689361	DNA	SEQ	-	-
+NM_000070.2:c.380-2A>C	15:42678363	snp	-	-	No ExAC data for variant	NA	Pathogenic	2i	-	r.[380_498del, 379_380ins380-45_380-1; 380-2a>c]	p.[Gly127Valfs*14, Gly127_Asp128ins15]	CAPN3_00423	control chromosomes	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/17994539	DNA	SEQ	-	-
+NM_000070.2:c.389G>C	15:42678374	snp	-	-	No ExAC data for variant	NA	Pathogenic	3	-	r.389g>c	p.Trp130Ser	CAPN3_00347	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/17897828	DNA, RNA	RT-PCR, SEQ	?	?
+NM_000070.2:c.390G>C	15:42678375	snp	-	-	No ExAC data for variant	NA	Pathogenic	3	-	r.(?)	p.(Trp130Cys)	CAPN3_00267	-	germline (inherited)	-	-	DNA	SEQ	-	-
+NM_000070.2:c.398C>T	15:42678383	snp	T:4.118e-05,T:4.118e-05	T	0.000041180	4	Pathogenic	3	-	r.(?)	p.(Ala133Val)	CAPN3_00222	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/16141003	DNA	DHPLC	-	-
+NM_000070.2:c.399A>G	15:42678384	snp	-	-	No ExAC data for variant	NA	No known pathogenicity	3	-	r.399a>g	p.(=)	CAPN3_00392	-	germline (inherited)	-	GenBank	DNA	SEQ	-	-
+NM_000070.2:c.402delC	15:42678386	del	-:8.237e-06	-	0.000008237	5	Pathogenic	3	-	r.402del	p.Ile135Leufs*4	CAPN3_00022	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/09150160	DNA, RNA	RT-PCR, SEQ	-	-
+NM_000070.2:c.409T>C	15:42678394	snp	-	-	No ExAC data for variant	NA	Pathogenic	3	-	r.(?)	p.(Cys137Arg)	CAPN3_00063	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/10330340	DNA	SEQ	-	-
+NM_000070.2:c.413T>C	15:42678398	snp	-	-	No ExAC data for variant	NA	Pathogenic	3	-	r.(?)	p.(Leu138Pro)	CAPN3_00124	-	germline (inherited)	-	Ginjaar WMS2005	DNA	DGGE	-	-
+NM_000070.2:c.416C>T	15:42678401	snp	-	-	No ExAC data for variant	NA	Mixed reported pathogenicity	3	-	r.(?)	p.(Thr139Ile)	CAPN3_00320	-	germline (inherited)	-	-	DNA	SSCA	-	-
+NM_000070.2:c.418dupC	15:42678400-42678401	dup	-	-	No ExAC data for variant	NA	Pathogenic	3	-	r.(?)	p.(Leu140Profs*13)	CAPN3_00064	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/10330340	DNA	SEQ	-	-
+NM_000070.2:c.424C>T	15:42678409	snp	-	-	No ExAC data for variant	NA	Pathogenic	3	-	r.(?)	p.(Gln142*)	CAPN3_00065	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/10330340	DNA	SSCA	-	-
+NM_000070.2:c.439C>T	15:42678424	snp	-	-	No ExAC data for variant	NA	Probably pathogenic	3	-	r.(?)	p.(Arg147*)	CAPN3_00538	-	germline (inherited)	-	-	DNA	SEQ-NG-I	-	-
+NM_000070.2:c.440G>A	15:42678425	snp	A:3.295e-05,A:3.295e-05	A	0.000032950	4	Pathogenic	3	-	r.(?)	p.(Arg147Gln)	CAPN3_00450	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/17994539	DNA	SEQ	-	-
+NM_000070.2:c.440G>C	15:42678425	snp	A:3.295e-05,A:3.295e-05	C	No relevant ExAC data	NA	Pathogenic	3	-	r.(?)	p.(Arg147Pro)	CAPN3_00142	control chromosomes	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/10567047	DNA, RNA	RT-PCR, SEQ	-	BsrI+
+NM_000070.2:c.477C>T	15:42678462	snp	-	-	No ExAC data for variant	NA	Unknown	3	-	r.(?)	p.(=)	CAPN3_00241	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/16141003	DNA	DHPLC	-	-
+NM_000070.2:c.478G>C	15:42678463	snp	A:8.237e-06	C	No relevant ExAC data	NA	Pathogenic	3	-	r.(?)	p.(Ala160Pro)	CAPN3_00268	-	germline (inherited)	-	-	DNA	SEQ	-	-
+NM_000070.2:c.479C>A	15:42678464	snp	G:0.004506,G:0.004506	A	No relevant ExAC data	NA	Pathogenic	3	-	r.(?)	p.(Ala160Glu)	CAPN3_00321	-	germline (inherited)	-	-	DNA	SSCA	-	-
+NM_000070.2:c.479C>G	15:42678464	snp	G:0.004506,G:0.004506	G	0.004506000	2	Mixed reported pathogenicity	3	-	r.(?)	p.(Ala160Gly)	CAPN3_00135	-	germline (inherited)	-	Politano et al., Neuromuscul.Disord. 12: 733	DNA	SEQ	-	-
+NM_000070.2:c.481G>A	15:42678466	snp	-	-	No ExAC data for variant	NA	Probably pathogenic	3	-	r.(?)	p.(Gly161Arg)	CAPN3_00462	-	germline (inherited)	-	-	DNA	PCR, SEQ	-	-
+NM_000070.2:c.483delG	15:42678466	del	-	-	No ExAC data for variant	NA	Pathogenic	3	-	r.(?)	p.(Ile162Serfs*17)	CAPN3_00382	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/16650086	DNA	DHPLC	-	-
+NM_000070.2:c.484A>C	15:42678469	snp	-	-	No ExAC data for variant	NA	Pathogenic	3	-	r.(?)	p.(Ile162Leu)	CAPN3_00066	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/10330340	DNA	SEQ	-	AvaII-
+NM_000070.2:c.495C>G	15:42678480	snp	T:0.006269,T:0.006269	G	No relevant ExAC data	NA	Unknown	3	-	r.(?)	p.(Phe165Leu)	CAPN3_00170	-	germline (inherited)	-	-	DNA	DHPLC	-	-
+NM_000070.2:c.495C>T	15:42678480	snp	T:0.006269,T:0.006269	T	0.006269000	2	No known pathogenicity	3	-	r.(?)	p.(=)	CAPN3_00067	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/10330340	DNA	SEQ, SSCA	0.01	-
+NM_000070.2:c.496delC	15:42678480	del	T:0.006269,T:0.006269	T	0.006269000	2	Pathogenic	3	-	r.(spl?)	p.(Gln166Serfs*13)	CAPN3_00139	-	germline (inherited)	-	-	DNA	SSCA	-	-
+NM_000070.2:c.498G>A	15:42678483	snp	A:8.238e-06,A:8.238e-06	A	0.000008238	5	No known pathogenicity	3	-	r.(spl?)	p.(?)	CAPN3_00068	determined on >100 chromosomes	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/10330340	DNA	SSCA	<0.01	-
+NM_000070.2:c.498+1G>A	15:42678484	snp	-	-	No ExAC data for variant	NA	Pathogenic	3i	-	r.spl?	p.(?)	CAPN3_00223	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/16141003	DNA	DHPLC	-	-
+NM_000070.2:c.498+35G>T	15:42678518	snp	T:0.01828,T:0.01828	T	0.018280000	1	Mixed reported pathogenicity	3i	-	r.(spl?)	p.(=)	CAPN3_00242	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/16141003	DNA	DHPLC, SEQ	-	-
+NM_000070.2:c.499-21G>C	15:42679930	snp	-	-	No ExAC data for variant	NA	Unknown	3i	-	r.(?)	p.(?)	CAPN3_00333	-	germline (inherited)	-	-	DNA	SSCA	-	-
+NM_000070.2:c.499-17G>A	15:42679934	snp	-	-	No ExAC data for variant	NA	Unknown	3i	-	r.(?)	p.(=)	CAPN3_00243	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/16141003	DNA	DHPLC	-	-
+NM_000070.2:c.499-1G>A	15:42679950	snp	-	-	No ExAC data for variant	NA	Mixed reported pathogenicity	3i	-	r.spl?	p.(?)	CAPN3_00373	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/16650086	DNA	DHPLC	-	-
+NM_000070.2:c.502T>C	15:42679954	snp	-	-	No ExAC data for variant	NA	Pathogenic	4	-	r.502u>c	p.Trp168Arg	CAPN3_00443	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/17897828	DNA, RNA	RT-PCR, SEQ	?	?
+NM_000070.2:c.505C>G	15:42679957	snp	-	-	No ExAC data for variant	NA	Pathogenic	4	-	r.(?)	p.(Arg169Gly)	CAPN3_00184	control chromosomes	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/16001438,http://www.ncbi.nlm.nih.gov/pubmed/17318636	DNA	SSCA	-	-
+NM_000070.2:c.505C>T	15:42679957	snp	-	-	No ExAC data for variant	NA	Unknown	4	-	r.(?)	p.(Arg169Cys)	CAPN3_00353	-	germline (inherited)	-	-	DNA	SEQ	-	-
+NM_000070.2:c.506G>A	15:42679958	snp	-	-	No ExAC data for variant	NA	Unknown	4	-	r.(?)	p.(Arg169His)	CAPN3_00448	-	germline (inherited)	-	-	DNA	SEQ	-	-
+NM_000070.2:c.509A>G	15:42679961	snp	-	-	No ExAC data for variant	NA	Pathogenic	4	-	r.(?)	p.(Tyr170Cys)	CAPN3_00439	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/18055493	DNA	SEQ	-	-
+NM_000070.2:c.509dupA	15:42679960-42679961	dup	-	-	No ExAC data for variant	NA	Pathogenic	4	-	r.(?)	p.(Tyr170*)	CAPN3_00145	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/12461690	DNA	SSCA, DHPLC	-	-
+NM_000070.2:c.510T>G	15:42679962	snp	C:8.236e-06	G	No relevant ExAC data	NA	Pathogenic	4	-	r.(?)	p.(Tyr170*)	CAPN3_00354	-	germline (inherited)	-	-	DNA	SEQ	-	-
+NM_000070.2:c.527T>C	15:42679979	snp	-	-	No ExAC data for variant	NA	Unknown	4	-	r.(?)	p.(Val176Ala)	CAPN3_00500	-	germline (inherited)	-	-	DNA	PCR, SEQ	-	-
+NM_000070.2:c.533T>C	15:42679985	snp	-	-	No ExAC data for variant	NA	Pathogenic	4	-	r.(?)	p.(Ile178Thr)	CAPN3_00386	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/15221789	DNA	DHPLC	-	-
+NM_000070.2:c.535G>C	15:42679987	snp	-	-	No ExAC data for variant	NA	Pathogenic	4	-	r.(?)	p.(Asp179His)	CAPN3_00428	control chromosomes	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/17994539	DNA	SEQ	-	-
+NM_000070.2:c.539A>C	15:42679991	snp	-	-	No ExAC data for variant	NA	Pathogenic	4	-	r.(?)	p.(Asp180Ala)	CAPN3_00259	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/15725583	DNA	DHPLC	-	-
+NM_000070.2:c.545T>A	15:42679997	snp	-	-	No ExAC data for variant	NA	Pathogenic	4	-	r.(?)	p.(Leu182Gln)	CAPN3_00002	not in 120 control chromosomes	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/07720071	DNA	HD, SEQ	-	-
+NM_000070.2:c.548C>G	15:42680000	snp	-	-	No ExAC data for variant	NA	Pathogenic	4	-	r.(?)	p.(Pro183Arg)	CAPN3_00224	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/16141003	DNA	DHPLC	-	-
+NM_000070.2:c.548C>T	15:42680000	snp	-	-	No ExAC data for variant	NA	Pathogenic	4	-	r.(?)	p.(Pro183Leu)	CAPN3_00069	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/10330340	DNA	SEQ	-	-
+NM_000070.2:c.550delA	15:42680001	del	-:0.00028	-	0.000280000	3	Mixed reported pathogenicity	4	-	r.(?)	p.(Thr184Argfs*36 )	CAPN3_00010	-	germline (inherited)	-	-	DNA	SEQ	-	-
+NM_000070.2:c.551C>T	15:42680003	snp	T:0.003097,T:0.003097	T	0.003097000	2	Mixed reported pathogenicity	4	-	r.(?)	p.(Thr184Met)	CAPN3_00030	not in 120 control chromosomes	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/10330340,http://www.ncbi.nlm.nih.gov/pubmed/9655129	DNA, RNA	HD, SEQ	-	MboI-
+NM_000070.2:c.565C>G	15:42680017	snp	-	-	No ExAC data for variant	NA	Pathogenic	4	-	r.(?)	p.(Leu189Val)	CAPN3_00120	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/11296367	DNA	SEQ	-	-
+NM_000070.2:c.566T>C	15:42680018	snp	C:1.647e-05,C:1.647e-05	C	0.000016470	4	Mixed reported pathogenicity	4	-	r.(?)	p.(Leu189Pro)	CAPN3_00071	-	germline (inherited)	-	-	DNA	SEQ	-	-
+NM_000070.2:c.575C>T	15:42680027	snp	-	-	No ExAC data for variant	NA	Pathogenic	4	-	r.(?)	p.(Thr192Ile)	CAPN3_00260	-	germline (inherited)	-	-	DNA	SSCA	-	-
+NM_000070.2:c.580delT	15:42680032	del	-	-	No ExAC data for variant	NA	Pathogenic	4	-	r.(?)	p.(Ser194Profs*26)	CAPN3_00526	-	germline (inherited)	-	-	DNA	PCR, SEQ	-	-
+NM_000070.2:c.581C>G	15:42680033	snp	-	-	No ExAC data for variant	NA	Pathogenic	4	-	r.(?)	p.(Ser194Cys)	CAPN3_00322	-	germline (inherited)	-	-	DNA	SSCA	-	-
+NM_000070.2:c.590G>A	15:42680042	snp	A:4.942e-05,T:1.647e-05	A	0.000049420	4	Pathogenic	4	-	r.(?)	p.(Arg197His)	CAPN3_00226	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/15221789,http://www.ncbi.nlm.nih.gov/pubmed/16141003	DNA	DHPLC	-	-
+NM_000070.2:c.590G>T	15:42680042	snp	A:4.942e-05,T:1.647e-05	T	0.000016470	4	Pathogenic	4	-	r.(?)	p.(Arg197Leu)	CAPN3_00323	-	germline (inherited)	-	-	DNA	SSCA	-	-
+NM_000070.2:c.593A>G	15:42680045	snp	G:1.647e-05,G:1.647e-05	G	0.000016470	4	Mixed reported pathogenicity	4	-	r.(?)	p.(Asn198Ser)	CAPN3_00383	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/16650086	DNA	DHPLC	-	-
+NM_000070.2:c.595G>C	15:42680047	snp	-	-	No ExAC data for variant	NA	Pathogenic	4	-	r.(?)	p.(Glu199Gln)	CAPN3_00438	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/18055493	DNA	SEQ	-	-
+NM_000070.2:c.598_612del	15:42680049-42680063	del	-:1.647e-05	-	0.000016470	4	Mixed reported pathogenicity	4	-	r.(?)	p.(Phe200_Leu204del)	CAPN3_00025	-	germline (inherited)	-	-	DNA	SEQ	-	-
+NM_000070.2:c.601T>A	15:42680053	snp	-	-	No ExAC data for variant	NA	Pathogenic	4	-	r.(?)	p.(Trp201Arg)	CAPN3_00269	-	germline (inherited)	-	-	DNA	SEQ	-	-
+NM_000070.2:c.606T>C	15:42680058	snp	C:0.02101,C:0.02101	C	0.021010000	1	Mixed reported pathogenicity	4	-	r.(?)	p.(=)	CAPN3_00238	-	germline (inherited)	-	-	DNA	SEQ	-	-
+NM_000070.2:c.610C>G	15:42680062	snp	-	-	No ExAC data for variant	NA	Mixed reported pathogenicity	4	-	r.(?)	p.(Leu204Val)	CAPN3_00408	-	germline (inherited)	-	-	DNA	SSCA	-	-
+NM_000070.2:c.616delG	15:42680067	del	A:8.238e-06	A	0.000008238	5	Pathogenic	4	-	r.(?)	p.(Glu206Argfs*14)	CAPN3_00270	-	germline (inherited)	-	-	DNA	SEQ	-	-
+NM_000070.2:c.616G>A	15:42680068	snp	-	-	No ExAC data for variant	NA	Unknown	4	-	r.616g>a	p.Glu206Lys	CAPN3_00403	-	germline (inherited)	-	-	DNA, RNA	SEQ	-	-
+NM_000070.2:c.620A>C	15:42680072	snp	-	-	No ExAC data for variant	NA	Pathogenic	4	-	r.(?)	p.(Lys207Thr)	CAPN3_00227	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/16141003	DNA	DHPLC	-	-
+NM_000070.2:c.631A>G	15:42680083	snp	-	-	No ExAC data for variant	NA	Pathogenic	4	-	r.(spl?)	p.(Lys211Glu)	CAPN3_00146	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/12461690	DNA	SSCA, DHPLC	-	-
+NM_000070.2:c.632+1G>A	15:42680085	snp	-	-	No ExAC data for variant	NA	Pathogenic	4i	-	r.spl?	p.(?)	CAPN3_00178	-	germline (inherited)	-	-	DNA	DHPLC	-	-
+NM_000070.2:c.632+1G>C	15:42680085	snp	-	-	No ExAC data for variant	NA	Pathogenic	4i	-	r.spl?	p.(?)	CAPN3_00324	-	germline (inherited)	-	-	DNA	SSCA	-	-
+NM_000070.2:c.632+3A>G	15:42680087	snp	G:8.239e-06,G:8.239e-06	G	0.000008239	5	Pathogenic	4i	-	r.spl?	p.(?)	CAPN3_00126	-	germline (inherited)	-	Ginjaar, Neuromuscul.Disord. 12:731,	DNA	DGGE, SEQ	-	-
+NM_000070.2:c.632+4A>G	15:42680088	snp	-	-	No ExAC data for variant	NA	Unknown	4i	-	r.(spl?)	p.(?)	CAPN3_00325	-	germline (inherited)	-	-	DNA	SSCA	-	-
+NM_000070.2:c.633G>C	15:42681126	snp	A:2.471e-05	C	No relevant ExAC data	NA	Pathogenic	5	-	r.(spl?)	p.(Lys211Asn?)	CAPN3_00437	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/18055493	DNA	SEQ	-	-
+NM_000070.2:c.633G>T	15:42681126	snp	A:2.471e-05	T	No relevant ExAC data	NA	Pathogenic	5	-	r.(spl?)	p.(Lys211Asn?)	CAPN3_00228	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/16141003	DNA	DHPLC	-	-
+NM_000070.2:c.635T>C	15:42681128	snp	-	-	No ExAC data for variant	NA	Unknown	5	-	r.(?)	p.(Leu212Pro)	CAPN3_00516	http://genetics.emory.edu/egl/emvclass/emvclass.php	unknown	-	-	DNA	SEQ	-	-
+NM_000070.2:c.637C>T	15:42681130	snp	T:8.236e-06,T:8.236e-06	T	0.000008236	5	Pathogenic	5	-	r.(?)	p.(His213Tyr)	CAPN3_00338	control chromosomes	germline (inherited)	-	-	DNA	SEQ	-	-
+NM_000070.2:c.638A>G	15:42681131	snp	G:8.236e-06,G:8.236e-06	G	0.000008236	5	Pathogenic	5	-	r.(?)	p.(His213Arg)	CAPN3_00326	-	germline (inherited)	-	-	DNA	SSCA	-	-
+NM_000070.2:c.640G>A	15:42681133	snp	A:8.237e-05,A:8.237e-05	A	0.000082370	4	Pathogenic	5	-	r.(?)	p.(Gly214Ser)	CAPN3_00074	-	germline (inherited)	-	-	DNA	SSCA	-	-
+NM_000070.2:c.643T>C	15:42681136	snp	-	-	No ExAC data for variant	NA	Pathogenic	5	-	r.(?)	p.(Ser215Pro)	CAPN3_00044	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/09150160	DNA	SEQ	-	BsrI+
+NM_000070.2:c.643_663del	15:42681133-42681153	del	-:3.295e-05	-	0.000032950	4	Pathogenic	5	-	r.(?)	p.(Ser215_Gly221del)	CAPN3_00075	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/09150160	DNA	SEQ	-	-
+NM_000070.2:c.649G>A	15:42681142	snp	A:1.647e-05,A:1.647e-05	A	0.000016470	4	Pathogenic	5	-	r.(?)	p.(Glu217Lys)	CAPN3_00076	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/15221789	DNA	DHPLC	-	-
+NM_000070.2:c.662G>T	15:42681155	snp	-	-	No ExAC data for variant	NA	Pathogenic	5	-	r.(?)	p.(Gly221Val)	CAPN3_00421	control chromosomes	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/17994539	DNA	SEQ	-	-
+NM_000070.2:c.664G>A	15:42681157	snp	-	-	No ExAC data for variant	NA	Pathogenic	5	-	r.(?)	p.(Gly222Arg)	CAPN3_00027	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/9762961	DNA	SEQ	-	-
+NM_000070.2:c.674C>G	15:42681167	snp	-	-	No ExAC data for variant	NA	Pathogenic	5	-	r.(?)	p.(Thr225Arg)	CAPN3_00229	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/16141003	DNA	DHPLC	-	-
+NM_000070.2:c.676G>A	15:42681169	snp	-	-	No ExAC data for variant	NA	Pathogenic	5	-	r.(?)	p.(Glu226Lys)	CAPN3_00078	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/10330340	DNA	SSCA	-	-
+NM_000070.2:c.689A>G	15:42681182	snp	-	-	No ExAC data for variant	NA	Pathogenic	5	-	r.(?)	p.(Asp230Gly)	CAPN3_00230	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/16141003	DNA	DHPLC	-	-
+NM_000070.2:c.695C>T	15:42681188	snp	-	-	No ExAC data for variant	NA	Pathogenic	5	-	r.(?)	p.(Thr232Ile)	CAPN3_00080	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/10330340	DNA	SEQ	-	-
+NM_000070.2:c.697G>C	15:42681190	snp	-	-	No ExAC data for variant	NA	Pathogenic	5	-	r.(?)	p.(Gly233Arg)	CAPN3_00160	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/15221789	DNA	DHPLC	-	-
+NM_000070.2:c.698G>T	15:42681191	snp	-	-	No ExAC data for variant	NA	Pathogenic	5	-	r.698g>u	p.Gly233Val	CAPN3_00150	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/11525884	DNA, RNA	RT-PCR, SEQ	-	ScaI+
+NM_000070.2:c.701G>A	15:42681194	snp	-	-	No ExAC data for variant	NA	Pathogenic	5	-	r.(?)	p.(Gly234Glu)	CAPN3_00003	-	germline (inherited)	-	-	DNA	SSCA	-	-
+NM_000070.2:c.703delG	15:42681193	del	-	-	No ExAC data for variant	NA	Pathogenic	5	-	r.(?)	p.(Val235Trpfs*18)	CAPN3_00327	-	germline (inherited)	-	-	DNA	SSCA	-	-
+NM_000070.2:c.706G>A	15:42681199	snp	A:0.1238,A:0.1238	A	0.123800000	0	Mixed reported pathogenicity	5	-	r.(?)	p.(Ala236Thr)	CAPN3_00082	-	germline (inherited)	-	-	DNA	SEQ	-	ItaI
+NM_000070.2:c.717delT	15:42681205	del	C:8.237e-06,-:8.237e-06	C	0.000008237	5	Pathogenic	5	-	r.(?)	p.(Phe239Leufs*14)	CAPN3_00029	-	germline (inherited)	-	-	DNA	SSCA	-	-
+NM_000070.2:c.717dupT	15:42681204-42681205	dup	-	-	No ExAC data for variant	NA	Pathogenic	5	-	r.(?)	p.(Glu240*)	CAPN3_00271	-	germline (inherited)	-	-	DNA	SEQ	-	-
+NM_000070.2:c.724dupA	15:42681216-42681217	dup	-	-	No ExAC data for variant	NA	Pathogenic	5	-	r.(?)	p.(Arg242Lysfs*5)	CAPN3_00272	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/18055493	DNA	SEQ	-	-
+NM_000070.2:c.739G>A	15:42681232	snp	-	-	No ExAC data for variant	NA	Pathogenic	5	-	r.(?)	p.(Asp247Asn)	CAPN3_00231	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/16141003	DNA	DHPLC	-	-
+NM_000070.2:c.743T>G	15:42681236	snp	A:8.236e-06,G:8.236e-06	G	0.000008236	5	Mixed reported pathogenicity	5	-	r.(?)	p.(Met248Arg)	CAPN3_00147	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/12461690	DNA	SSCA, DHPLC	-	AvaII-
+NM_000070.2:c.747C>G	15:42681240	snp	T:8.236e-06	G	No relevant ExAC data	NA	Unknown	5	-	r.(?)	p.(Tyr249*)	CAPN3_00409	-	germline (inherited)	-	-	DNA	SEQ	-	-
+NM_000070.2:c.755T>A	15:42681248	snp	-	-	No ExAC data for variant	NA	Pathogenic	5	-	r.(?)	p.(Met252Lys)	CAPN3_00194	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/16141003	DNA	DHPLC	-	-
+NM_000070.2:c.755T>C	15:42681248	snp	-	-	No ExAC data for variant	NA	Pathogenic	5	-	r.(?)	p.(Met252Thr)	CAPN3_00233	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/16141003	DNA	DHPLC	-	-
+NM_000070.2:c.755T>G	15:42681248	snp	-	-	No ExAC data for variant	NA	Pathogenic	5	-	r.(?)	p.(Met252Arg)	CAPN3_00164	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/15221789	DNA	DHPLC	-	-
+NM_000070.2:c.759_761del	15:42681249-42681251	del	-:3.295e-05	-	0.000032950	4	Pathogenic	5	-	r.(?)	p.(Lys254del)	CAPN3_00055	-	germline (inherited)	-	Ginjaar WMS2005	DNA	DGGE	-	MspI
+NM_000070.2:c.760A>G	15:42681253	snp	-	-	No ExAC data for variant	NA	Pathogenic	5	-	r.(?)	p.(Lys254Glu)	CAPN3_00400	-	germline (inherited)	-	-	DNA	SEQ	-	-
+NM_000070.2:c.763G>C	15:42681256	snp	-	-	No ExAC data for variant	NA	Pathogenic	5	-	r.(?)	p.(Ala255Pro)	CAPN3_00328	-	germline (inherited)	-	-	DNA	SSCA	-	-
+NM_000070.2:c.769G>T	15:42681262	snp	-	-	No ExAC data for variant	NA	Pathogenic	5	-	r.(?)	p.(Glu257*)	CAPN3_00329	-	germline (inherited)	-	-	DNA	SSCA	-	-
+NM_000070.2:c.779C>T	15:42681272	snp	-	-	No ExAC data for variant	NA	Pathogenic	5	-	r.(?)	p.(Ser260Phe)	CAPN3_00330	-	germline (inherited)	-	-	DNA	SSCA	-	-
+NM_000070.2:c.788G>A	15:42681281	snp	-	-	No ExAC data for variant	NA	Pathogenic	5	-	r.(?)	p.(Gly263Asp)	CAPN3_00273	-	germline (inherited)	-	-	DNA	SEQ	-	-
+NM_000070.2:c.791G>A	15:42681284	snp	-	-	No ExAC data for variant	NA	Pathogenic	5	-	r.(?)	p.(Cys264Tyr)	CAPN3_00375	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/16650086	DNA	DHPLC	-	-
+NM_000070.2:c.798T>C	15:42681291	snp	-	-	No ExAC data for variant	NA	Unknown	5	-	r.(?)	p.(=)	CAPN3_00244	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/16141003	DNA	DHPLC	-	-
+NM_000070.2:c.801+1G>A	15:42681295	snp	-	-	No ExAC data for variant	NA	Pathogenic	5i	-	r.spl?	p.(?)	CAPN3_00026	-	germline (inherited)	-	-	DNA	SEQ	-	-
+NM_000070.2:c.802-9G>A	15:42682142	snp	A:8.243e-06,A:8.243e-06	A	0.000008243	5	Mixed reported pathogenicity	5i	-	r.spl?	p.(?)	CAPN3_00203	-	germline (inherited)	-	-	DNA	SEQ	-	-
+NM_000070.2:c.817A>G	15:42682166	snp	-	-	No ExAC data for variant	NA	Unknown	6	-	r.817a>g	p.(Thr273Ala)	CAPN3_00393	-	germline (inherited)	-	GenBank	DNA	SEQ	-	-
+NM_000070.2:c.822T>G	15:42682171	snp	-	-	No ExAC data for variant	NA	Probably pathogenic	6	-	r.(?)	p.(Tyr274*)	CAPN3_00501	-	germline (inherited)	-	-	DNA	PCR, SEQ	-	-
+NM_000070.2:c.847A>G	15:42682196	snp	G:8.237e-06,G:8.237e-06	G	0.000008237	5	Probably pathogenic	6	-	r.(?)	p.(Met283Val)	CAPN3_00506	-	germline (inherited)	-	-	DNA	SEQ	-	-
+NM_000070.2:c.848T>C	15:42682197	snp	-	-	No ExAC data for variant	NA	Pathogenic	6	-	r.(?)	p.(Met283Thr)	CAPN3_00390	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/15221789	DNA	DHPLC	-	-
+NM_000070.2:c.865C>T	15:42682214	snp	A:8.237e-06,T:3.295e-05	T	0.000032950	4	Mixed reported pathogenicity	6	-	r.(?)	p.(Arg289Trp)	CAPN3_00172	-	germline (inherited)	-	-	DNA	DGGE	-	-
+NM_000070.2:c.883_886delinsCTT	15:42682232-42682235	delins	-	-	No ExAC data for variant	NA	Pathogenic	6	-	r.(?)	p.(Asp295Leufs*57)	CAPN3_00234	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/16141003	DNA	DHPLC	-	-
+NM_000070.2:c.887delA	15:42682235	del	T:8.237e-06	T	0.000008237	5	Pathogenic	6	-	r.(?)	p.(Asn296Thrfs*56)	CAPN3_00083	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/10330340	DNA	SEQ	-	-
+NM_000070.2:c.898C>T	15:42682247	snp	-	-	No ExAC data for variant	NA	Pathogenic	6	-	r.(?)	p.(Gln300*)	CAPN3_00331	-	germline (inherited)	-	-	DNA	SSCA	-	-
+NM_000070.2:c.943C>T	15:42682292	snp	T:8.244e-06	T	0.000008244	5	Unknown	6	-	r.(?)	p.(Arg315Trp)	CAPN3_00517	http://genetics.emory.edu/egl/emvclass/emvclass.php	unknown	-	-	DNA	SEQ	-	-
+NM_000070.2:c.945+1delG	15:42682293	del	A:5.77e-05	A	0.000057700	4	Pathogenic	6	945delG	r.(spl?)	p.(del?)	CAPN3_00005	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/07720071	DNA	HD, SEQ	-	SmaI-
+NM_000070.2:c.945+5G>A	15:42682299	snp	A:8.244e-06,A:8.244e-06	A	0.000008244	5	Unknown	6i	-	r.spl?	p.?	CAPN3_00245	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/16141003	DNA	DHPLC	-	-
+NM_000070.2:c.945+14C>T	15:42682308	snp	T:0.0002061,T:0.0002061	T	0.000206100	3	No known pathogenicity	6i	-	r.(?)	p.(=)	CAPN3_00246	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/16141003	DNA	DHPLC	-	-
+NM_000070.2:c.945+56C>T	15:42682350	snp	-	-	No ExAC data for variant	NA	No known pathogenicity	6i	-	r.(?)	p.(=)	CAPN3_00247	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/16141003	DNA	DHPLC	-	-
+NM_000070.2:c.945+91C>T	15:42682385	snp	-	-	No ExAC data for variant	NA	No known pathogenicity	6i	-	r.(?)	p.(=)	CAPN3_00248	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/16141003	DNA	DHPLC	-	-
+NM_000070.2:c.946-2A>G	15:42684835	snp	-	-	No ExAC data for variant	NA	Mixed reported pathogenicity	6i	-	r.spl?	p.(?)	CAPN3_00274	-	germline (inherited)	-	-	DNA	SEQ	-	-
+NM_000070.2:c.946-1G>A	15:42684836	snp	-	-	No ExAC data for variant	NA	Pathogenic	6i	-	r.945_946ins946-390_346-1{346-1g>a}	p.Thr316Glufs*2	CAPN3_00017	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/7720071,http://www.ncbi.nlm.nih.gov/pubmed/9655129	DNA, RNA	HD, RT-PCR, SEQ	-	-
+NM_000070.2:c.956C>T	15:42684847	snp	T:4.198e-05,T:4.198e-05	T	0.000041980	4	Pathogenic	7	-	r.956c>u	p.Pro319Leu	CAPN3_00031	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/09150160,http://www.omim.org/entry/114240#0005	DNA, RNA	RT-PCR, SEQ	-	HphI+
+NM_000070.2:c.958G>T	15:42684849	snp	-	-	No ExAC data for variant	NA	Pathogenic	7	-	r.(?)	p.(Val320Phe)	CAPN3_00377	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/16650086	DNA	DHPLC	-	-
+NM_000070.2:c.964T>C	15:42684855	snp	C:4.178e-05,C:4.178e-05	C	0.000041780	4	Pathogenic	7	-	r.(?)	p.(Tyr322His)	CAPN3_00235	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/16141003	DNA	DHPLC	-	-
+NM_000070.2:c.966T>A	15:42684857	snp	-	-	No ExAC data for variant	NA	Pathogenic	7	-	r.(?)	p.(Tyr322*)	CAPN3_00306	-	germline (inherited)	-	-	DNA	SSCA	-	-
+NM_000070.2:c.967G>T	15:42684858	snp	T:8.346e-06,T:8.346e-06	T	0.000008346	5	Pathogenic	7	-	r.(?)	p.(Glu323*)	CAPN3_00236	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/16141003	DNA	DHPLC	-	-
+NM_000070.2:c.984C>A	15:42684875	snp	T:0.006352,T:0.006352	A	No relevant ExAC data	NA	Pathogenic	7	-	r.(?)	p.(Cys328*)	CAPN3_00396	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/16971480,http://www.ncbi.nlm.nih.gov/pubmed/17526799	DNA	SSCA	-	-
+NM_000070.2:c.984C>T	15:42684875	snp	T:0.006352,T:0.006352	T	0.006352000	2	Mixed reported pathogenicity	7	-	r.(spl?)	p.(?)	CAPN3_00086	-	germline (inherited)	-	-	DNA	SSCA	-	-
+NM_000070.2:c.985G>A	15:42684876	snp	-	-	No ExAC data for variant	NA	Pathogenic	7	-	r.(?)	p.(Gly329Arg)	CAPN3_00275	-	germline (inherited)	-	-	DNA	SEQ	-	-
+NM_000070.2:c.998G>A	15:42684889	snp	A:3.333e-05,A:3.333e-05	A	0.000033330	4	Pathogenic	7	-	r.(?)	p.(Gly333Asp)	CAPN3_00394	control chromosomes	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/17318636	DNA	SEQ	-	-
+NM_000070.2:c.1000C>T	15:42684891	snp	A:8.336e-06	T	No relevant ExAC data	NA	Pathogenic	7	-	r.(?)	p.(His334Tyr)	CAPN3_00195	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/16141003	DNA	DHPLC	-	-
+NM_000070.2:c.1001A>T	15:42684892	snp	T:8.335e-06,T:8.335e-06	T	0.000008335	5	Unknown	7	-	r.(?)	p.(His334Leu)	CAPN3_00436	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/18055493	DNA	SEQ	-	-
+NM_000070.2:c.1001dupA	15:42684891-42684892	dup	-	-	No ExAC data for variant	NA	Pathogenic	7	-	r.(?)	p.(His334Glnfs*10)	CAPN3_00196	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/16141003	DNA	DHPLC	-	-
+NM_000070.2:c.1002C>G	15:42684893	snp	T:1.668e-05	G	No relevant ExAC data	NA	Pathogenic	7	-	r.(?)	p.(His334Gln)	CAPN3_00032	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/09150160	DNA	SEQ	-	AciI-
+NM_000070.2:c.1006T>A	15:42684897	snp	G:2.504e-05	A	No relevant ExAC data	NA	Pathogenic	7	-	r.(?)	p.(Tyr336Asn)	CAPN3_00033	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/09266733	DNA	SEQ	-	-
+NM_000070.2:c.1029+1G>T	15:42684921	snp	-	-	No ExAC data for variant	NA	Pathogenic	7i	-	r.spl?	p.?	CAPN3_00137	control chromosomes	germline (inherited)	-	-	DNA	SSCA	-	-
+NM_000070.2:c.1029+3A>G	15:42684923	snp	G:0.009844,G:0.009844	G	0.009844000	2	Mixed reported pathogenicity	7i	-	r.(spl?)	p.(?)	CAPN3_00225	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/16650086	DNA	DHPLC	-	-
+NM_000070.2:c.1029+198C>T	15:42685118	snp	-	-	No ExAC data for variant	NA	No known pathogenicity	7i	-	r.(=)	p.(=)	CAPN3_00340	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/15689361	DNA	SEQ	-	-
+NM_000070.2:c.1030-1G>A	15:42686453	snp	-	-	No ExAC data for variant	NA	Pathogenic	7i	-	r.1030delG	p.V3al44Serfs*8	CAPN3_00454	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/20635405	DNA, RNA	RT-PCR, SEQ	-	-
+NM_000070.2:c.1034C>T	15:42686458	snp	T:4.618e-05,T:4.618e-05	T	0.000046180	4	Unknown	8	-	r.(?)	p.(Pro345Leu)	CAPN3_00180	-	germline (inherited)	-	-	DNA	DHPLC	2/330	-
+NM_000070.2:c.1043delG	15:42686466	del	-:4.554e-05	-	0.000045540	4	Pathogenic	8	-	r.(?)	p.(Gly348Valfs*4)	CAPN3_00199	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/15733273	DNA	SEQ	-	-
+NM_000070.2:c.1058T>C	15:42686482	snp	C:4.382e-05,C:4.382e-05	C	0.000043820	4	Pathogenic	8	-	r.(?)	p.(Leu353Pro)	CAPN3_00197	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/16141003	DNA	DHPLC	-	-
+NM_000070.2:c.1061T>C	15:42686485	snp	-	-	No ExAC data for variant	NA	Pathogenic	8	-	r.(?)	p.(Val354Ala)	CAPN3_00198	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/15221789,http://www.ncbi.nlm.nih.gov/pubmed/16141003	DNA	DHPLC	-	-
+NM_000070.2:c.1061T>G	15:42686485	snp	-	-	No ExAC data for variant	NA	Pathogenic	8	-	r.1061u>g	p.Val354Gly	CAPN3_00006	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/15221789,http://www.ncbi.nlm.nih.gov/pubmed/20635405	DNA, RNA	DHPLC, RT-PCR, SEQ	-	-
+NM_000070.2:c.1063C>G	15:42686487	snp	T:4.383e-05,T:4.383e-05	G	No relevant ExAC data	NA	Pathogenic	8	-	r.(?)	p.(Arg355Gly)	CAPN3_00372	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/16650086	DNA	DHPLC	-	-
+NM_000070.2:c.1063C>T	15:42686487	snp	T:4.383e-05,T:4.383e-05	T	0.000043830	4	Pathogenic	8	-	r.(?)	p.(Arg355Trp)	CAPN3_00136	-	germline (inherited)	-	-	DNA	SSCA	-	-
+NM_000070.2:c.1069C>T	15:42686493	snp	T:0,T:0	T	0.000000000	9	Pathogenic	8	-	r.(?)	p.(Arg357Trp)	CAPN3_00276	-	germline (inherited)	-	-	DNA	SEQ	-	-
+NM_000070.2:c.1070G>A	15:42686494	snp	-	-	No ExAC data for variant	NA	Pathogenic	8	-	r.(?)	p.(Arg357Gln)	CAPN3_00385	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/15733273	DNA	SEQ	-	ScaI+
+NM_000070.2:c.1076C>T	15:42686500	snp	-	-	No ExAC data for variant	NA	Mixed reported pathogenicity	8	-	r.(?)	p.(Pro359Leu)	CAPN3_00128	-	germline (inherited)	-	Ginjaar, Neuromuscul.Disord. 12:731,	DNA	DGGE	-	-
+NM_000070.2:c.1079G>A	15:42686503	snp	-	-	No ExAC data for variant	NA	Pathogenic	8	-	r.(?)	p.(Trp360*)	CAPN3_00007	-	germline (inherited)	-	-	DNA	SEQ	-	-
+NM_000070.2:c.1080G>C	15:42686504	snp	-	-	No ExAC data for variant	NA	Pathogenic	8	-	r.(?)	p.(Trp360Cys)	CAPN3_00035	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/09771675,http://www.omim.org/entry/114240#0007	DNA	SEQ	-	PstI-
+NM_000070.2:c.1099G>A	15:42686523	snp	A:0.0001312,A:0.0001312	A	0.000131200	3	Pathogenic	8	-	r.(?)	p.(Gly367Ser)	CAPN3_00277	-	germline (inherited)	-	-	DNA	SEQ	-	-
+NM_000070.2:c.1106G>A	15:42686530	snp	-	-	No ExAC data for variant	NA	Pathogenic	8	-	r.(?)	p.(Trp369*)	CAPN3_00387	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/15733273	DNA	SEQ	-	-
+NM_000070.2:c.1115+5G>A	15:42686544	snp	-	-	No ExAC data for variant	NA	Unknown	8i	-	r.(spl?)	p.(?)	CAPN3_00336	-	germline (inherited)	-	-	DNA	SSCA	-	-
+NM_000070.2:c.1115+5G>T	15:42686544	snp	-	-	No ExAC data for variant	NA	Pathogenic	8i	-	r.(spl?)	p.(?)	CAPN3_00156	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/11525884	DNA, RNA	RT-PCR, SEQ	-	-
+NM_000070.2:c.1116-5A>G	15:42688993	snp	G:0.003411,G:0.003411	G	0.003411000	2	Mixed reported pathogenicity	8i	-	r.(spl?)	p.(?)	CAPN3_00503	-	germline (inherited)	-	-	DNA	SEQ	-	-
+NM_000070.2:c.1116-1G>A	15:42688997	snp	-	-	No ExAC data for variant	NA	Pathogenic	8i	-	r.[1116_1122del, 1116_1193del]	p.[Trp373Thrfs*59; Trp373_Trp398del]	CAPN3_00191	-	germline (inherited)	-	-	DNA, RNA	RT-PCR, SEQ	-	-
+NM_000070.2:c.1156C>T	15:42689038	snp	-	-	No ExAC data for variant	NA	Pathogenic	9	-	r.(?)	p.(Arg386Cys)	CAPN3_00278	-	germline (inherited)	-	-	DNA	SEQ	-	-
+NM_000070.2:c.1162C>T	15:42689044	snp	-	-	No ExAC data for variant	NA	Probably pathogenic	9	-	r.(?)	p.(Gln388*)	CAPN3_00510	-	unknown	-	-	DNA	PCR, SEQ	-	-
+NM_000070.2:c.1191C>G	15:42689073	snp	-	-	No ExAC data for variant	NA	Pathogenic	9	-	r.(?)	p.(Phe397Leu)	CAPN3_00297	-	germline (inherited)	-	-	DNA	SSCA	-	-
+NM_000070.2:c.1192T>C	15:42689074	snp	-	-	No ExAC data for variant	NA	Pathogenic	9	-	r.(?)	p.(Trp398Arg)	CAPN3_00430	control chromosomes	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/17994539	DNA	SEQ	-	-
+NM_000070.2:c.1193G>C	15:42689075	snp	-	-	No ExAC data for variant	NA	Pathogenic	9	-	r.(spl?)	p.(Trp398Ser?)	CAPN3_00179	-	germline (inherited)	-	-	DNA	DHPLC	-	-
+NM_000070.2:c.1193+6T>A	15:42689081	snp	-	-	No ExAC data for variant	NA	Pathogenic	9i	-	r.(spl?)	p.?	CAPN3_00413	control chromosomes	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/17994539	DNA	SEQ	-	-
+NM_000070.2:c.1194-45C>T	15:42691645	snp	T:0.01344	T	0.013440000	1	No known pathogenicity	9i	-	r.(?)	p.(=)	CAPN3_00518	http://genetics.emory.edu/egl/emvclass/emvclass.php	unknown	-	-	DNA	SEQ	-	-
+NM_000070.2:c.1194-26C>G	15:42691664	snp	A:8.247e-06,G:0.06607	G	0.066070000	1	Mixed reported pathogenicity	9i	-	r.(?)	p.(=)	CAPN3_00087	determined on >100 chromosomes	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/10330340	DNA	SEQ, SSCA	0.07	AflIII
+NM_000070.2:c.1194-9A>G	15:42691681	snp	G:1.648e-05,G:1.648e-05	G	0.000016480	4	Mixed reported pathogenicity	9i	-	r.(1148_1149ins1149-8_1149-1)?	p.fs?	CAPN3_00088	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/16650086	DNA	DHPLC	-	-
+NM_000070.2:c.1202A>G	15:42691698	snp	G:1.648e-05,G:1.648e-05	G	0.000016480	4	Pathogenic	10	-	r.(?)	p.(Tyr401Cys)	CAPN3_00298	-	germline (inherited)	-	-	DNA	SSCA	-	-
+NM_000070.2:c.1227A>G	15:42691723	snp	C:2.472e-05,G:0.0001978	G	0.000197800	3	Unknown	10	-	r.(?)	p.(=)	CAPN3_00519	http://genetics.emory.edu/egl/emvclass/emvclass.php	unknown	-	-	DNA	SEQ	-	-
+NM_000070.2:c.1250C>T	15:42691746	snp	T:4.95e-05,T:4.95e-05	T	0.000049500	4	Pathogenic	10	-	r.(?)	p.(Thr417Met)	CAPN3_00279	-	germline (inherited)	-	-	DNA	SEQ	-	-
+NM_000070.2:c.1256A>G	15:42691752	snp	-	-	No ExAC data for variant	NA	Pathogenic	10	-	r.(?)	p.(Asp419Gly)	CAPN3_00435	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/18055493	DNA	SEQ	-	-
+NM_000070.2:c.1257T>G	15:42691753	snp	G:8.26e-06,G:8.26e-06	G	0.000008260	5	Pathogenic	10	-	r.(?)	p.(Asp419Glu)	CAPN3_00280	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/18055493	DNA	SEQ	-	-
+NM_000070.2:c.1259C>A	15:42691755	snp	T:8.266e-06	A	No relevant ExAC data	NA	Pathogenic	10	-	r.(?)	p.(Ala420Asp)	CAPN3_00299	-	germline (inherited)	-	-	DNA	SSCA	-	-
+NM_000070.2:c.1263G>A	15:42691759	snp	A:5.789e-05,A:5.789e-05	A	0.000057890	4	Unknown	10	-	r.(spl?)	p.(?)	CAPN3_00089	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/10330340	DNA	SSCA	-	SfanI
+NM_000070.2:c.1286G>A	15:42691782	snp	-	-	No ExAC data for variant	NA	Pathogenic	10	-	r.(?)	p.(Trp429*)	CAPN3_00281	-	germline (inherited)	-	-	DNA	SEQ	-	-
+NM_000070.2:c.1290A>G	15:42691786	snp	G:4.269e-05,G:4.269e-05	G	0.000042690	4	No known pathogenicity	10	-	r.(spl?)	p.(?)	CAPN3_00249	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/16141003	DNA	DHPLC	-	-
+NM_000070.2:c.1291G>A	15:42691787	snp	-	-	No ExAC data for variant	NA	Pathogenic	10	-	r.(?)	p.(Val431Met)	CAPN3_00115	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/16141003	DNA	DHPLC	-	-
+NM_000070.2:c.1292dupT	15:42691787-42691788	dup	-	-	No ExAC data for variant	NA	Pathogenic	10	-	r.(?)	p.(Ser432Valfs*39)	CAPN3_00090	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/10330340	DNA	SEQ	-	-TthIII
+NM_000070.2:c.1298_1299del	15:42691792-42691793	del	-	-	No ExAC data for variant	NA	Pathogenic	10	-	r.(?)	p.(Val434Glufs*37)	CAPN3_00388	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/15733273	DNA	SEQ	-	-
+NM_000070.2:c.1301A>T	15:42691797	snp	-	-	No ExAC data for variant	NA	Pathogenic	10	-	r.(?)	p.(Asn434Ile)	CAPN3_00376	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/16650086	DNA	DHPLC	-	-
+NM_000070.2:c.1302C>T	15:42691798	snp	T:3.656e-05,T:3.656e-05	T	0.000036560	4	Mixed reported pathogenicity	10	-	r.(spl?)	p.(?)	CAPN3_00357	-	germline (inherited)	-	Sacara ESHG2007, P676	DNA	SSCA, SEQ	-	-
+NM_000070.2:c.1303G>A	15:42691799	snp	A:7.394e-05,A:7.394e-05	A	0.000073940	4	Pathogenic	10	-	r.(?)	p.(Glu435Lys)	CAPN3_00134	-	germline (inherited)	-	Politano et al., Neuromuscul.Disord. 12: 733	DNA	SEQ	-	-
+NM_000070.2:c.1309C>G	15:42691805	snp	T:1.936e-05,T:1.936e-05	G	No relevant ExAC data	NA	Pathogenic	10	-	r.(?)	p.(Arg437Gly)	CAPN3_00414	control chromosomes	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/17994539	DNA	SEQ	-	-
+NM_000070.2:c.1309C>T	15:42691805	snp	T:1.936e-05,T:1.936e-05	T	0.000019360	4	Mixed reported pathogenicity	10	-	r.(?)	p.(Arg437Cys)	CAPN3_00091	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/16141003	DNA	DHPLC	-	-
+NM_000070.2:c.1312T>C	15:42691808	snp	-	-	No ExAC data for variant	NA	Unknown	10	-	r.(?)	p.(Trp438Arg)	CAPN3_00410	-	germline (inherited)	-	-	DNA	SEQ	-	-
+NM_000070.2:c.1318C>T	15:42691814	snp	T:2.066e-05,T:2.066e-05	T	0.000020660	4	Mixed reported pathogenicity	10	-	r.1318c>u	p.Arg440Trp	CAPN3_00036	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/11525884	DNA, RNA	RT-PCR, SEQ	-	SfanI
+NM_000070.2:c.1319G>A	15:42691815	snp	A:8.276e-05,C:7.241e-05	A	0.000082760	4	Pathogenic	10	-	r.(?)	p.(Arg440Gln)	CAPN3_00161	-	germline (inherited)	-	-	DNA	SSCA	-	-
+NM_000070.2:c.1319_1322del	15:42691815-42691818	del	-	-	No ExAC data for variant	NA	Pathogenic	10	-	r.(?)	p.(Arg440Leufs*22)	CAPN3_00092	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/10330340	DNA	SEQ	-	-
+NM_000070.2:c.1322delG	15:42691815	del	A:8.276e-05,C:7.241e-05	A	0.000082760	4	Pathogenic	10	-	r.(?)	p.(Gly441Valfs*22)	CAPN3_00157	-	germline (inherited)	-	-	DNA	SEQ	-	-
+NM_000070.2:c.1322G>A	15:42691818	snp	-	-	No ExAC data for variant	NA	Pathogenic	10	-	r.1322g>a	p.Gly441Asp	CAPN3_00093	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/16372320	DNA, RNA	RT-PCR, SEQ	-	-
+NM_000070.2:c.1328C>T	15:42691824	snp	-	-	No ExAC data for variant	NA	Unknown	10	-	r.(?)	p.(Ser443Phe)	CAPN3_00351	-	germline (inherited)	-	-	DNA	SEQ	-	MspI
+NM_000070.2:c.1333G>A	15:42691829	snp	A:1.227e-05,C:1.227e-05	A	0.000012270	4	Pathogenic	10	-	r.(?)	p.(Gly445Arg)	CAPN3_00094	-	germline (inherited)	-	Ginjaar WMS2005	DNA	DGGE	-	-
+NM_000070.2:c.1333G>C	15:42691829	snp	A:1.227e-05,C:1.227e-05	C	0.000012270	4	Pathogenic	10	-	r.(?)	p.(Gly445Arg)	CAPN3_00511	-	unknown	-	-	DNA	PCR, SEQ	-	-
+NM_000070.2:c.1336G>A	15:42691832	snp	-	-	No ExAC data for variant	NA	Pathogenic	10	-	r.(?)	p.(Gly446Ser)	CAPN3_00355	-	germline (inherited)	-	-	DNA	SEQ	-	-
+NM_000070.2:c.1339T>C	15:42691835	snp	-	-	No ExAC data for variant	NA	Pathogenic	10	-	r.(?)	p.(Cys447Arg)	CAPN3_00282	-	germline (inherited)	-	-	DNA	SEQ	-	-
+NM_000070.2:c.1342C>G	15:42691838	snp	T:0,G:1.31e-05	G	0.000013100	4	Pathogenic	10	-	r.(?)	p.(Arg448Gly)	CAPN3_00008	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/10330340	DNA	SEQ	-	-
+NM_000070.2:c.1342C>T	15:42691838	snp	T:0,G:1.31e-05	T	0.000000000	9	Pathogenic	10	-	r.(?)	p.(Arg448Cys)	CAPN3_00095	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/16650086	DNA	DHPLC	-	-
+NM_000070.2:c.1343G>A	15:42691839	snp	-	-	No ExAC data for variant	NA	Pathogenic	10	-	r.(?)	p.(Arg448His)	CAPN3_00096	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/10330340	DNA	SEQ	-	-
+NM_000070.2:c.1345A>C	15:42691841	snp	-	-	No ExAC data for variant	NA	Pathogenic	10	-	r.(?)	p.(Asn449His)	CAPN3_00158	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/15221789	DNA	DHPLC	-	-
+NM_000070.2:c.1354G>C	15:42691850	snp	-	-	No ExAC data for variant	NA	Pathogenic	10	-	r.1354g>c	p.Asp452His	CAPN3_00153	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/11525884	DNA, RNA	RT-PCR, SEQ	-	ScaI+
+NM_000070.2:c.1355-6G>A	15:42693833	snp	A:0.004623,A:0.004623	A	0.004623000	2	No known pathogenicity	10i	-	r.(spl?)	p.(?)	CAPN3_00434	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/18055493	DNA	SEQ	-	-
+NM_000070.2:c.1355-6G>C	15:42693833	snp	A:0.004623,A:0.004623	C	No relevant ExAC data	NA	No known pathogenicity	10i	-	r.(=)	p.(=)	CAPN3_00341	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/15689361	DNA	SSCA	-	-
+NM_000070.2:c.1355-6G>T	15:42693833	snp	A:0.004623,A:0.004623	T	No relevant ExAC data	NA	Unknown	10i	-	r.(spl?)	p.(=)	CAPN3_00534	-	unknown	?	-	DNA	SEQ	-	-
+NM_000070.2:c.1355-1G>C	15:42693838	snp	C:8.253e-06,C:8.253e-06	C	0.000008253	5	Pathogenic	10i	-	r.spl?	p.(?)	CAPN3_00283	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/16650086	DNA	DHPLC	-	-
+NM_000070.2:c.1361T>C	15:42693845	snp	-	-	No ExAC data for variant	NA	Pathogenic	11	-	r.(?)	p.(Phe454Ser)	CAPN3_00301	-	germline (inherited)	-	-	DNA	SSCA	-	-
+NM_000070.2:c.1373delC	15:42693855	del	-	-	No ExAC data for variant	NA	Pathogenic	11	-	r.1373del	p.Pro458Leufs*5	CAPN3_00097	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/17979987	DNA, RNA	RT-PCR, DHPLC, SEQ	-	-
+NM_000070.2:c.1381C>T	15:42693865	snp	-	-	No ExAC data for variant	NA	Pathogenic	11	-	r.1381c>u	p.Arg461Cys	CAPN3_00141	control chromosomes	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/10567047	DNA, RNA	RT-PCR, SEQ	-	ScaI+
+NM_000070.2:c.1385T>G	15:42693869	snp	-	-	No ExAC data for variant	NA	Pathogenic	11	-	r.(?)	p.(Leu462Arg)	CAPN3_00261	-	germline (inherited)	-	-	DNA	DHPLC	-	-
+NM_000070.2:c.1401_1403del	15:42693879-42693881	del	-:1.649e-05	-	0.000016490	4	Pathogenic	11	-	r.(?)	p.(Glu467del)	CAPN3_00200	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/16141003	DNA	DHPLC	-	-
+NM_000070.2:c.1435A>G	15:42693919	snp	G:4.952e-05,G:4.952e-05	G	0.000049520	4	Pathogenic	11	-	r.(?)	p.(Ser479Gly)	CAPN3_00098	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/10330340	DNA	SEQ	-	-
+NM_000070.2:c.1448C>A	15:42693932	snp	A:8.272e-06,A:8.272e-06	A	0.000008272	5	Pathogenic	11	-	r.(?)	p.(Ala483Asp)	CAPN3_00202	-	germline (inherited)	-	-	DNA	SSCA	-	-
+NM_000070.2:c.1450C>A	15:42693934	snp	A:1.655e-05,A:1.655e-05	A	0.000016550	4	Pathogenic	11	-	r.(?)	p.(Leu484Met)	CAPN3_00302	-	germline (inherited)	-	-	DNA	SSCA	-	-
+NM_000070.2:c.1456C>G	15:42693940	snp	-	-	No ExAC data for variant	NA	Pathogenic	11	-	r.(?)	p.(Gln486Glu)	CAPN3_00037	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/9762961	DNA	SEQ	-	-SfaNI
+NM_000070.2:c.1465C>T	15:42693949	snp	-	-	No ExAC data for variant	NA	Pathogenic	11	-	r.(?)	p.(Arg489Trp)	CAPN3_00038	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/9762961	DNA	SEQ	-	Cfr10I-;BsrI+
+NM_000070.2:c.1466G>A	15:42693950	snp	A:5.034e-05,A:5.034e-05	A	0.000050340	4	Pathogenic	11	-	r.(?)	p.(Arg489Gln)	CAPN3_00018	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/10330340	DNA	SEQ	-	DdeI-
+NM_000070.2:c.1468C>T	15:42693952	snp	T:0.0001105,CT:8.498e-06	T	0.000110500	3	Mixed reported pathogenicity	11	-	r.(?)	p.(Arg490Trp)	CAPN3_00009	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/15221789,http://www.ncbi.nlm.nih.gov/pubmed/14578192,http://www.ncbi.nlm.nih.gov/pubmed/15725583	DNA	DHPLC	-	-
+NM_000070.2:c.1469G>A	15:42693953	snp	A:5.95e-05,C:8.5e-06	A	0.000059500	4	Pathogenic	11	-	r.1469g>a	p.Arg490Gln	CAPN3_00034	-	germline (inherited)	-	{DB: Hoffman}	DNA, RNA	RT-PCR, SEQ	-	-
+NM_000070.2:c.1470delG	15:42693953	del	A:5.95e-05,C:8.5e-06	A	0.000059500	4	Probably pathogenic	11	1470Gdeletion	r.(?)	p.(Lys491Argfs*5)	CAPN3_00482	-	germline (inherited)	-	-	DNA	SEQ-NG-I	-	-
+NM_000070.2:c.1477C>G	15:42693961	snp	T:1.715e-05,T:1.715e-05	G	No relevant ExAC data	NA	Pathogenic	11	-	r.(?)	p.(Arg493Gly)	CAPN3_00204	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/16141003	DNA	DHPLC	-	-
+NM_000070.2:c.1477C>T	15:42693961	snp	T:1.715e-05,T:1.715e-05	T	0.000017150	4	Pathogenic	11	-	r.(?)	p.(Arg493Trp)	CAPN3_00070	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/10330340	DNA	SEQ	-	Cfr10I-
+NM_000070.2:c.1486G>A	15:42693970	snp	A:8.756e-06,A:8.756e-06	A	0.000008756	5	Pathogenic	11	-	r.(?)	p.(Gly496Arg)	CAPN3_00039	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/15221789	DNA	DHPLC	-	MboI-
+NM_000070.2:c.1505T>C	15:42693989	snp	C:0.000178,C:0.000178	C	0.000178000	3	Pathogenic	11	-	r.(?)	p.(Ile502Thr)	CAPN3_00391	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/10330340	DNA	SSCA, DGGE	-	-
+NM_000070.2:c.1524G>A	15:42694008	snp	-	-	No ExAC data for variant	NA	Mixed reported pathogenicity	11	-	r.(spl?)	p.(?)	CAPN3_00132	-	germline (inherited)	-	Meznaric-Petrusa, Neuromuscul.Disord. 12: 731	DNA	DHPLC	-	-
+NM_000070.2:c.1524+1G>C	15:42694009	snp	-	-	No ExAC data for variant	NA	Pathogenic	11i	-	r.spl?	p.?	CAPN3_00284	-	germline (inherited)	-	-	DNA	SEQ	-	-
+NM_000070.2:c.1524+6C>T	15:42694014	snp	-	-	No ExAC data for variant	NA	No known pathogenicity	11i	-	r.(?)	p.(?)	CAPN3_00099	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/9452114	DNA	SEQ	-	-
+NM_000070.2:c.1524+47G>A	15:42694055	snp	-	-	No ExAC data for variant	NA	Unknown	11i	-	r.(?)	p.(=)	CAPN3_00358	-	germline (inherited)	-	-	DNA	SEQ	-	-
+NM_000070.2:c.1524+81C>T	15:42694089	snp	-	-	No ExAC data for variant	NA	No known pathogenicity	11i	-	r.(?)	p.(=)	CAPN3_00250	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/16141003	DNA	DHPLC	-	-
+NM_000070.2:c.1524+129C>T	15:42694137	snp	-	-	No ExAC data for variant	NA	Unknown	11i	-	r.(?)	p.(=)	CAPN3_00359	-	germline (inherited)	-	-	DNA	SEQ	-	-
+NM_000070.2:c.1529C>G	15:42694326	snp	-	-	No ExAC data for variant	NA	Probably pathogenic	12	-	r.(?)	p.(Pro510Arg)	CAPN3_00540	-	germline (inherited)	-	-	DNA	SEQ-NG-I	0.00004	-
+NM_000070.2:c.1536+1G>T	15:42694334	snp	-	-	No ExAC data for variant	NA	Pathogenic	12i	-	r.1536_1537ins1536+1_1537-1{1536+1G>T}	p.Met513Ilefs*2	CAPN3_00407	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/20477750	DNA, RNA	RT-PCR, SEQ	-	-
+NM_000070.2:c.1536+133T>C	15:42694466	snp	-	-	No ExAC data for variant	NA	No known pathogenicity	12i	-	r.(=)	p.(=)	CAPN3_00343	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/15689361	DNA	SSCA, SEQ	-	-
+NM_000070.2:c.1537-48T>C	15:42694944	snp	C:0.6928,C:0.6928	C	0.692800000	0	Mixed reported pathogenicity	12i	-	r.spl?	p.(?)	CAPN3_00258	-	germline (inherited)	-	-	DNA	SEQ	-	-
+NM_000070.2:c.1537-40C>G	15:42694952	snp	-	-	No ExAC data for variant	NA	No known pathogenicity	12i	-	r.spl?	p.(?)	CAPN3_00378	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/16650086	DNA	DHPLC	-	-
+NM_000070.2:c.1537-33G>A	15:42694959	snp	A:0.001218,C:8.346e-06	A	0.001218000	2	Mixed reported pathogenicity	12i	-	r.(=)	p.(=)	CAPN3_00342	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/15689361	DNA	SSCA, SEQ	-	-
+NM_000070.2:c.1537-1G>A	15:42694991	snp	-	-	No ExAC data for variant	NA	Pathogenic	12i	-	r.spl?	p.(?)	CAPN3_00304	-	germline (inherited)	-	-	DNA	SSCA	-	-
+NM_000070.2:c.1542C>T	15:42694997	snp	T:2.475e-05,T:2.475e-05	T	0.000024750	4	No known pathogenicity	13	-	r.(?)	p.(=)	CAPN3_00251	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/16141003	DNA	DHPLC	-	-
+NM_000070.2:c.1566G>A	15:42695021	snp	A:8.244e-06,A:8.244e-06	A	0.000008244	5	Unknown	13	-	r.(?)	p.(=)	CAPN3_00356	-	germline (inherited)	-	Ginjaar, Neuromuscul.Disord. 12:731,	DNA	DGGE, SEQ	-	-
+NM_000070.2:c.1567G>A	15:42695022	snp	-	-	No ExAC data for variant	NA	Pathogenic	13	-	r.1567g>a	p.Asp523Asn	CAPN3_00117	-	germline (inherited)	-	{DB: Hoffman}	DNA, RNA	SEQ	-	-
+NM_000070.2:c.1573_1575del	15:42695024-42695026	del	-	-	No ExAC data for variant	NA	Unknown	13	1573_1575delTTC	r.(?)	p.(Phe525del)	CAPN3_00149	-	germline (inherited)	-	-	DNA	PCR, SEQ	-	-
+NM_000070.2:c.1574T>C	15:42695029	snp	-	-	No ExAC data for variant	NA	Pathogenic	13	-	r.(?)	p.(Phe525Ser)	CAPN3_00285	-	germline (inherited)	-	-	DNA	SEQ	-	-
+NM_000070.2:c.1610A>G	15:42695065	snp	-	-	No ExAC data for variant	NA	Pathogenic	13	-	r.(?)	p.(Tyr537Cys)	CAPN3_00305	-	germline (inherited)	-	-	DNA	SSCA	-	-
+NM_000070.2:c.1611C>A	15:42695066	snp	-	-	No ExAC data for variant	NA	Pathogenic	13	-	r.(?)	p.(Tyr537*)	CAPN3_00041	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/10330340	DNA	SSCA	-	-
+NM_000070.2:c.1621C>T	15:42695076	snp	T:3.296e-05,T:3.296e-05	T	0.000032960	4	Pathogenic	13	-	r.(?)	p.(Arg541Trp)	CAPN3_00129	-	germline (inherited)	-	-	DNA	SEQ	-	-
+NM_000070.2:c.1622G>A	15:42695077	snp	A:8.241e-06,A:8.241e-06	A	0.000008241	5	Pathogenic	13	-	r.(?)	p.(Arg541Gln)	CAPN3_00024	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/10330340	DNA	SSCA	-	-
+NM_000070.2:c.1636C>T	15:42695091	snp	T:2.472e-05	T	0.000024720	4	Unknown	13	-	r.(?)	p.(Arg546Cys)	CAPN3_00528	-	germline (inherited)	-	-	DNA	SEQ-NG	-	-
+NM_000070.2:c.1641C>A	15:42695096	snp	-	-	No ExAC data for variant	NA	Pathogenic	13	-	r.(?)	p.(Phe547Leu)	CAPN3_00232	-	germline (inherited)	-	-	DNA	SSCA	-	-
+NM_000070.2:c.1657G>A	15:42695112	snp	A:8.242e-06,A:8.242e-06	A	0.000008242	5	Pathogenic	13	-	r.(?)	p.(Glu553Lys)	CAPN3_00138	control chromosomes	germline (inherited)	-	-	DNA	SSCA	-	-
+NM_000070.2:c.1662C>G	15:42695117	snp	T:1.649e-05	G	No relevant ExAC data	NA	Pathogenic	13	1654C>G	r.(?)	p.(Tyr554*)	CAPN3_00415	control chromosomes	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/17994539	DNA	SEQ	-	-
+NM_000070.2:c.1663G>A	15:42695118	snp	A:0.0001319,C:4.122e-05	A	0.000131900	3	Mixed reported pathogenicity	13	-	r.(?)	p.(Val555Ile)	CAPN3_00286	-	germline (inherited)	-	-	DNA	SEQ	-	-
+NM_000070.2:c.1667T>C	15:42695122	snp	-	-	No ExAC data for variant	NA	Pathogenic	13	-	r.(?)	p.(Ile556Thr)	CAPN3_00307	-	germline (inherited)	-	-	DNA	SSCA	-	-
+NM_000070.2:c.1668C>T	15:42695123	snp	T:0.0002143,T:0.0002143	T	0.000214300	3	No known pathogenicity	13	-	r.(?)	p.(=)	CAPN3_00101	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/10330340	DNA	SEQ, SSCA	<0.01	-
+NM_000070.2:c.1693delC	15:42695147	del	-	-	No ExAC data for variant	NA	Pathogenic	13	-	r.(?)	p.(Gln565Argfs*30)	CAPN3_00389	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/15733273	DNA	SEQ	-	HhaI-;HgiaI+
+NM_000070.2:c.1694A>C	15:42695149	snp	-	-	No ExAC data for variant	NA	Unknown	13	-	r.1694a>c	p.Gln565Pro	CAPN3_00404	-	germline (inherited)	-	-	DNA, RNA	SEQ	-	-
+NM_000070.2:c.1699G>T	15:42695154	snp	T:8.256e-06,T:8.256e-06	T	0.000008256	5	Pathogenic	13	-	r.(?)	p.(Gly567Trp)	CAPN3_00042	-	germline (inherited)	-	-	DNA	SSCA	-	-
+NM_000070.2:c.1706T>C	15:42695161	snp	-	-	No ExAC data for variant	NA	Mixed reported pathogenicity	13	-	r.(?)	p.(Phe569Ser)	CAPN3_00205	-	germline (inherited)	-	{DBSubm098}	DNA	SEQ	-	-
+NM_000070.2:c.1711delC	15:42695165	del	G:8.268e-06	G	0.000008268	5	Pathogenic	13	-	r.(?)	p.(Leu571Serfs*24)	CAPN3_00416	control chromosomes	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/17994539	DNA	SEQ	-	-
+NM_000070.2:c.1714C>T	15:42695169	snp	-	-	No ExAC data for variant	NA	Mixed reported pathogenicity	13	-	r.(?)	p.(Arg572Trp)	CAPN3_00043	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/15221789	DNA	DHPLC	-	-
+NM_000070.2:c.1715G>A	15:42695170	snp	A:8.278e-06,T:8.278e-06	A	0.000008278	5	Pathogenic	13	-	r.(?)	p.(Arg572Gln)	CAPN3_00011	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/10330340	DNA	SSCA	-	NciI-
+NM_000070.2:c.1715G>C	15:42695170	snp	A:8.278e-06,T:8.278e-06	C	No relevant ExAC data	NA	Pathogenic	13	-	r.(?)	p.(Arg572Pro)	CAPN3_00206	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/16141003	DNA	DHPLC	-	-
+NM_000070.2:c.1722delC	15:42695177	del	-	-	No ExAC data for variant	NA	Pathogenic	13	-	r.1722delC	p.Ser575Leufs*20	CAPN3_00168	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/15351423,http://www.ncbi.nlm.nih.gov/pubmed/16372320	DNA, RNA	RT-PCR, SEQ	-	-
+NM_000070.2:c.1742C>G	15:42695197	snp	-	-	No ExAC data for variant	NA	Pathogenic	13	-	r.1742c>g	p.Ser581Cys	CAPN3_00155	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/11525884	DNA, RNA	RT-PCR, SEQ	-	DdeI-;SecI+
+NM_000070.2:c.1743_1744del	15:42695198-42695199	del	-	-	No ExAC data for variant	NA	Pathogenic	13	-	r.(?)	p.(Glu582Glyfs*3)	CAPN3_00102	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/10330340	DNA	SSCA	-	-
+NM_000070.2:c.1745+1G>A	15:42695201	snp	-	-	No ExAC data for variant	NA	Pathogenic	13i	-	r.spl?	p.?	CAPN3_00207	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/16141003	DNA	DHPLC	-	-
+NM_000070.2:c.1745+4_1745+7del	15:42695198-42695201	del	-:1.666e-05	-	0.000016660	4	Pathogenic	13i	-	r.1659_1745del	p.Tyr554_Glu582del	CAPN3_00411	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/17979987	DNA, RNA	RT-PCR, DHPLC, SEQ	-	-
+NM_000070.2:c.1745+5G>A	15:42695205	snp	-	-	No ExAC data for variant	NA	Unknown	13i	-	r.(spl?)	p.(?)	CAPN3_00335	-	germline (inherited)	-	-	DNA	SSCA	-	-
+NM_000070.2:c.1745+5G>C	15:42695205	snp	-	-	No ExAC data for variant	NA	Pathogenic	13i	-	r.spl?	p.(?)	CAPN3_00121	-	germline (inherited)	-	-	DNA	SEQ	-	-
+NM_000070.2:c.1746-64C>T	15:42695875	snp	-	-	No ExAC data for variant	NA	Mixed reported pathogenicity	13i	-	r.(?)	p.(=)	CAPN3_00257	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/SNP/snp_ref.cgi?type=rs&rs=rs17764849	DNA	DHPLC, SEQ	0.02	-
+NM_000070.2:c.1746-20C>G	15:42695919	snp	-	-	No ExAC data for variant	NA	Mixed reported pathogenicity	13i	-	r.(spl?)	p.(?)	CAPN3_00140	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/16141003	DNA	DHPLC	-	-
+NM_000070.2:c.1763T>C	15:42695956	snp	-	-	No ExAC data for variant	NA	Probably pathogenic	14	-	r.(?)	p.(Ile588Thr)	CAPN3_00525	-	germline (inherited)	-	-	DNA	PCR, SEQ	-	-
+NM_000070.2:c.1782+23_1782+24insAGAG	15:42695997-42695998	ins	-	-	No ExAC data for variant	NA	No known pathogenicity	14i	-	r.(spl?)	p.(?)	CAPN3_00252	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/SNP/snp_ref.cgi?type=rs&rs=rs10697562	DNA	SEQ	-	-
+NM_000070.2:c.1782+1072G>C	15:42697047	snp	-	-	No ExAC data for variant	NA	Pathogenic	14i	-	r.1782_1783ins1783-1070_1783-971	p.Lys595Valfs*70	CAPN3_00405	-	germline (inherited)	-	-	DNA, RNA	SEQ	-	-
+NM_000070.2:c.1783-63C>G	15:42698061	snp	-	-	No ExAC data for variant	NA	No known pathogenicity	14i	-	r.(=)	p.(=)	CAPN3_00344	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/15689361	DNA	SSCA, SEQ	-	-
+NM_000070.2:c.1783-59C>T	15:42698065	snp	-	-	No ExAC data for variant	NA	No known pathogenicity	14i	-	r.(=)	p.(=)	CAPN3_00345	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/15689361	DNA	SSCA, SEQ	-	-
+NM_000070.2:c.1783-5_1784del	15:42698118-42698124	del	-	-	No ExAC data for variant	NA	Pathogenic	14i	-	r.spl?	p.(?)	CAPN3_00287	-	germline (inherited)	-	-	DNA	SEQ	-	-
+NM_000070.2:c.1788_1791del	15:42698126-42698129	del	-	-	No ExAC data for variant	NA	Pathogenic	15	-	r.(?)	p.(Lys598Profs*63)	CAPN3_00048	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/10330340	DNA	SSCA	-	-
+NM_000070.2:c.1788_1793del	15:42698122-42698127	del	-	-	No ExAC data for variant	NA	Pathogenic	15	1783_1788del	r.1788_1793del	p.Lys597_Lys598del	CAPN3_00169	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/15351423,http://www.ncbi.nlm.nih.gov/pubmed/16372320	DNA, RNA	RT-PCR, SEQ	-	-
+NM_000070.2:c.1792_1795del	15:42698130-42698133	del	-	-	No ExAC data for variant	NA	Pathogenic	15	-	r.(?)	p.(Lys598Profs*63)	CAPN3_00163	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/15221789	DNA	DHPLC	-	-
+NM_000070.2:c.1795dupA	15:42698129-42698130	dup	-	-	No ExAC data for variant	NA	Pathogenic	15	-	r.1795dup	p.Thr559Asnfs*33	CAPN3_00045	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/11525884	DNA, RNA	RT-PCR, SEQ	-	-
+NM_000070.2:c.1800+2T>C	15:42698143	snp	C:4.141e-05,C:4.141e-05	C	0.000041410	4	Pathogenic	15i	-	r.spl?	p.(?)	CAPN3_00308	-	germline (inherited)	-	-	DNA	SSCA	-	-
+NM_000070.2:c.1800+21C>T	15:42698162	snp	T:0.0013,T:0.0013	T	0.001300000	2	Unknown	15i	-	r.(?)	p.(=)	CAPN3_00360	-	germline (inherited)	-	-	DNA	SEQ	-	-
+NM_000070.2:c.1801-51G>A	15:42700358	snp	C:2.541e-05	A	No relevant ExAC data	NA	No known pathogenicity	15i	-	r.(?)	p.(=)	CAPN3_00181	-	germline (inherited)	-	-	DNA	DHPLC	2/76	-
+NM_000070.2:c.1811_1812del	15:42700419-42700420	del	-	-	No ExAC data for variant	NA	Pathogenic	16	-	r.(?)	p.(Phe604Cysfs*27)	CAPN3_00395	control chromosomes	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/17318636	DNA	SEQ	-	-
+NM_000070.2:c.1813G>A	15:42700421	snp	A:6.594e-05	A	0.000065940	4	Unknown	16	-	r.(?)	p.(Val605Ile)	CAPN3_00520	http://genetics.emory.edu/egl/emvclass/emvclass.php	unknown	-	-	DNA	SEQ	-	-
+NM_000070.2:c.1817C>T	15:42700425	snp	T:2.472e-05,T:2.472e-05	T	0.000024720	4	Pathogenic	16	-	r.1817c>u	p.Ser606Leu	CAPN3_00040	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/09150160	DNA, RNA	RT-PCR, SEQ	-	-
+NM_000070.2:c.1823G>A	15:42700431	snp	-	-	No ExAC data for variant	NA	Pathogenic	16	-	r.(?)	p.(Arg608Lys)	CAPN3_00417	control chromosomes	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/17994539	DNA	SEQ	-	-
+NM_000070.2:c.1826C>A	15:42700434	snp	-	-	No ExAC data for variant	NA	Pathogenic	16	-	r.(?)	p.(Ala609Glu)	CAPN3_00346	control chromosomes	germline (inherited)	-	-	DNA	SEQ	-	-
+NM_000070.2:c.1838delA	15:42700445	del	-	-	No ExAC data for variant	NA	Pathogenic	16	-	r.(?)	p.(Lys613Argfs*49)	CAPN3_00004	reported to database by Richard	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/10330340	DNA	HD, SEQ	-	AvaI+
+NM_000070.2:c.1855C>T	15:42700463	snp	-	-	No ExAC data for variant	NA	Pathogenic	16	-	r.(?)	p.(Gln619*)	CAPN3_00453	-	germline (inherited)	-	Stehlikova ESHG2009 P16.45	DNA	SEQ	-	-
+NM_000070.2:c.1858del	15:42700465	del	-:8.24e-06	-	0.000008240	5	Pathogenic	16	-	r.(?)	p.(Glu620Serfs*42)	CAPN3_00512	-	unknown	-	-	DNA	PCR, SEQ	-	-
+NM_000070.2:c.1865A>C	15:42700473	snp	-	-	No ExAC data for variant	NA	Unknown	16	-	r.(?)	p.(Glu622Ala)	CAPN3_00237	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/SNP/snp_ref.cgi?type=rs&rs=rs11557723	DNA	SEQ	-	-
+NM_000070.2:c.1865_1866del	15:42700471-42700472	del	-	-	No ExAC data for variant	NA	Pathogenic	16	-	r.(?)	p.(Glu622Glyfs*9)	CAPN3_00103	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/10330340	DNA	SEQ	-	-
+NM_000070.2:c.1868_1877del	15:42700473-42700482	del	-	-	No ExAC data for variant	NA	Pathogenic	16	1868_1877del	r.(?)	p.(Glu623Alafs*36)	CAPN3_00208	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/16141003	DNA	DHPLC	-	-
+NM_000070.2:c.1872C>T	15:42700480	snp	T:1.649e-05,T:1.649e-05	T	0.000016490	4	Pathogenic	16	-	r.1871_1914del	p.Gly624Alafs*7	CAPN3_00046	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/7670461	DNA, RNA	RT-PCR, SEQ	-	-
+NM_000070.2:c.1897C>T	15:42700505	snp	-	-	No ExAC data for variant	NA	Pathogenic	16	-	r.(?)	p.(Gln633*)	CAPN3_00433	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/18055493	DNA	SEQ	-	-
+NM_000070.2:c.1910delC	15:42700515	del	-	-	No ExAC data for variant	NA	Pathogenic	16	-	r.(?)	p.(Pro637Hisfs*25)	CAPN3_00309	-	germline (inherited)	-	-	DNA	SSCA	-	-
+NM_000070.2:c.1913A>C	15:42700521	snp	-	-	No ExAC data for variant	NA	Pathogenic	16	-	r.(?)	p.(Gln638Pro)	CAPN3_00023	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/10330340	DNA	SSCA, DGGE	-	-
+NM_000070.2:c.1914+30G>A	15:42700552	snp	A:0.0266,A:0.0266	A	0.026600000	1	Mixed reported pathogenicity	16i	-	r.(spl?)	p.(?)	CAPN3_00253	-	germline (inherited)	-	-	DNA	SEQ	-	-
+NM_000070.2:c.1917_1922del	15:42701495-42701500	del	-	-	No ExAC data for variant	NA	Pathogenic	17	-	r.(?)	p.(Gln640_Pro641del)	CAPN3_00209	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/16141003	DNA	DHPLC	-	-
+NM_000070.2:c.1939G>T	15:42701525	snp	-	-	No ExAC data for variant	NA	Pathogenic	17	-	r.(?)	p.(Glu647*)	CAPN3_00418	control chromosomes	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/17994539	DNA	SEQ	-	-
+NM_000070.2:c.1971_1973del	15:42701556-42701558	del	-	-	No ExAC data for variant	NA	Pathogenic	17	-	r.(?)	p.(Phe658del)	CAPN3_00398	-	germline (inherited)	-	{DBSubm098}	DNA	SEQ	-	-
+NM_000070.2:c.1979A>G	15:42701565	snp	-	-	No ExAC data for variant	NA	Pathogenic	17	-	r.(?)	p.(Gln660Arg)	CAPN3_00310	-	germline (inherited)	-	-	DNA	SSCA	-	-
+NM_000070.2:c.1981delA	15:42701567	del	-:8.29e-06,-:8.29e-06	-	0.000008290	5	Mixed reported pathogenicity	17	-	r.(?)	p.(Ile661*)	CAPN3_00104	-	germline (inherited)	-	-	DNA	SEQ	-	-
+NM_000070.2:c.1981_1984del	15:42701565-42701568	del	-	-	No ExAC data for variant	NA	Pathogenic	17	-	r.(?)	p.(Ile661Glnfs*20)	CAPN3_00062	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/10330340	DNA	SEQ	-	BsrI+
+NM_000070.2:c.1983delA	15:42701569	del	-	-	No ExAC data for variant	NA	Pathogenic	17	-	r.(?)	p.(Ile661Metfs*21)	CAPN3_00105	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/10330340,http://www.ncbi.nlm.nih.gov/pubmed/11297944,http://www.ncbi.nlm.nih.gov/pubmed/18055493	DNA	SSCA, SEQ	-	-
+NM_000070.2:c.1984G>T	15:42701570	snp	T:0.0003317,C:8.292e-06	T	0.000331700	3	Mixed reported pathogenicity	17	-	r.(?)	p.(Ala662Ser)	CAPN3_00210	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/16141003	DNA	DHPLC	-	-
+NM_000070.2:c.1992+1G>T	15:42701579	snp	-	-	No ExAC data for variant	NA	Mixed reported pathogenicity	17i	-	r.spl?	p.(?)	CAPN3_00106	-	germline (inherited)	-	-	DNA	SSCA	-	-
+NM_000070.2:c.1992+42C>G	15:42701620	snp	G:0.004611	G	0.004611000	2	No known pathogenicity	17i	-	r.(?)	p.(=)	CAPN3_00521	http://genetics.emory.edu/egl/emvclass/emvclass.php	unknown	-	-	DNA	SEQ	-	-
+NM_000070.2:c.1992+100C>T	15:42701678	snp	-	-	No ExAC data for variant	NA	Unknown	17i	-	r.(?)	p.(=)	CAPN3_00361	-	germline (inherited)	-	-	DNA	SEQ	-	-
+NM_000070.2:c.1993-5_1993-3delCTC	15:42701975-42701977	del	-	-	No ExAC data for variant	NA	Unknown	17i	-	r.(spl?)	p.(?)	CAPN3_00254	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/16141003	DNA	DHPLC	-	-
+NM_000070.2:c.1993-1G>A	15:42701984	snp	A:8.256e-06,A:8.256e-06	A	0.000008256	5	Pathogenic	17i	-	r.spl?	p.(?)	CAPN3_00288	-	germline (inherited)	-	-	DNA	SEQ	-	-
+NM_000070.2:c.1993-1G>T	15:42701984	snp	A:8.256e-06,A:8.256e-06	T	No relevant ExAC data	NA	Pathogenic	17i	-	r.spl?	p.(?)	CAPN3_00072	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/10330340,http://www.ncbi.nlm.nih.gov/pubmed/11297944,http://www.ncbi.nlm.nih.gov/pubmed/18055493	DNA	SSCA, SEQ	-	-
+NM_000070.2:c.1999dupG	15:42701989-42701990	dup	-	-	No ExAC data for variant	NA	Pathogenic	18	-	r.1999dupg	p.Glu677Glyfs*6	CAPN3_00152	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/11525884	DNA, RNA	RT-PCR, SEQ	-	-
+NM_000070.2:c.2005T>A	15:42701997	snp	-	-	No ExAC data for variant	NA	Pathogenic	18	-	r.(?)	p.(Cys669Ser)	CAPN3_00289	-	germline (inherited)	-	-	DNA	SEQ	-	-
+NM_000070.2:c.2019C>G	15:42702011	snp	-	-	No ExAC data for variant	NA	No known pathogenicity	18	-	r.(?)	p.(=)	CAPN3_00107	determined on >100 chromosomes	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/10330340	DNA	SEQ, SSCA	<0.01	-
+NM_000070.2:c.2023_2025del	15:42702012-42702014	del	-	-	No ExAC data for variant	NA	Pathogenic	18	-	r.(?)	p.(Lys675del)	CAPN3_00211	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/16141003	DNA	DHPLC	-	-
+NM_000070.2:c.2036_2037del	15:42702025-42702026	del	-	-	No ExAC data for variant	NA	Pathogenic	18	-	r.(?)	p.(Thr679Serfs*20)	CAPN3_00290	-	germline (inherited)	-	-	DNA	SEQ	-	-
+NM_000070.2:c.2050+1delG	15:42702043	del	A:1.656e-05,C:8.281e-06	A	0.000016560	4	Pathogenic	18i	-	r.spl?	p.(?)	CAPN3_00311	-	germline (inherited)	-	-	DNA	SSCA	-	-
+NM_000070.2:c.2050+1G>A	15:42702043	snp	A:1.656e-05,C:8.281e-06	A	0.000016560	4	Pathogenic	18i	-	r.spl?	p.(?)	CAPN3_00154	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/11525884	DNA, RNA	RT-PCR, SEQ	-	-
+NM_000070.2:c.2050+29G>A	15:42702071	snp	C:8.392e-06	A	No relevant ExAC data	NA	Unknown	18i	-	r.(spl?)	p.(?)	CAPN3_00432	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/18055493	DNA	SEQ	-	-
+NM_000070.2:c.2050+36G>A	15:42702078	snp	A:0.0007627,A:0.0007627	A	0.000762700	3	Unknown	18i	-	r.(?)	p.(=)	CAPN3_00362	-	germline (inherited)	-	-	DNA	SEQ	-	-
+NM_000070.2:c.2069_2070del	15:42702143-42702144	del	-	-	No ExAC data for variant	NA	Pathogenic	19	-	r.(?)	p.(His690Argfs*9)	CAPN3_00012	-	germline (inherited)	-	-	DNA	SSCA	-	-
+NM_000070.2:c.2071G>A	15:42702149	snp	A:0.0002143	A	0.000214300	3	Unknown	19	-	r.(?)	p.(Gly691Arg)	CAPN3_00522	http://genetics.emory.edu/egl/emvclass/emvclass.php	unknown	-	-	DNA	SEQ	-	-
+NM_000070.2:c.2071_2080del	15:42702144-42702153	del	-	-	No ExAC data for variant	NA	Pathogenic	19	-	r.2071_2080del	p.Gly691Trpfs*7	CAPN3_00406	-	germline (inherited)	-	-	DNA, RNA	SEQ	-	-
+NM_000070.2:c.2077A>C	15:42702155	snp	-	-	No ExAC data for variant	NA	Pathogenic	19	-	r.(?)	p.(Thr693Pro)	CAPN3_00313	-	germline (inherited)	-	-	DNA	SSCA	-	-
+NM_000070.2:c.2092C>A	15:42702170	snp	T:1.648e-05,T:1.648e-05	A	No relevant ExAC data	NA	Pathogenic	19	-	r.(?)	p.(Arg698Ser)	CAPN3_00452	-	germline (inherited)	-	-	DNA	SEQ	-	-
+NM_000070.2:c.2092C>T	15:42702170	snp	T:1.648e-05,T:1.648e-05	T	0.000016480	4	Pathogenic	19	-	r.(?)	p.(Arg698Cys)	CAPN3_00291	-	germline (inherited)	-	-	DNA	SSCA	-	-
+NM_000070.2:c.2093G>C	15:42702171	snp	A:3.295e-05	C	No relevant ExAC data	NA	Pathogenic	19	-	r.(?)	p.(Arg698Pro)	CAPN3_00077	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/10330340,http://www.ncbi.nlm.nih.gov/pubmed/11297944,http://www.ncbi.nlm.nih.gov/pubmed/18055493	DNA	SSCA, SEQ	-	-
+NM_000070.2:c.2105C>A	15:42702183	snp	-	-	No ExAC data for variant	NA	Pathogenic	19	c.2105C>T	r.(?)	p.(Ala702Glu)	CAPN3_00441	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/17994539	DNA	SEQ	-	-
+NM_000070.2:c.2105C>T	15:42702183	snp	-	-	No ExAC data for variant	NA	Mixed reported pathogenicity	19	-	r.(?)	p.(Ala702Val)	CAPN3_00047	-	germline (inherited)	-	-	DNA	SEQ	-	-
+NM_000070.2:c.2113G>C	15:42702191	snp	-	-	No ExAC data for variant	NA	Pathogenic	19	-	r.(?)	p.(Asp705His)	CAPN3_00108	-	germline (inherited)	-	-	DNA	SSCA	-	-
+NM_000070.2:c.2114A>G	15:42702192	snp	-	-	No ExAC data for variant	NA	Pathogenic	19	-	r.(spl?)	p.(Asp705Gly)	CAPN3_00109	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/11297944	DNA	SSCA	-	-
+NM_000070.2:c.2115+4T>A	15:42702197	snp	G:8.238e-06	A	No relevant ExAC data	NA	Unknown	19i	-	r.(spl?)	p.?	CAPN3_00363	effect on splicing uncertain	germline (inherited)	-	Ginjaar, WMS2008	DNA	DGGE, SEQ	-	-
+NM_000070.2:c.2115+46G>A	15:42702239	snp	A:8.245e-06,A:8.245e-06	A	0.000008245	5	No known pathogenicity	19i	-	r.(?)	p.(=)	CAPN3_00255	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/16141003	DNA	DHPLC	-	-
+NM_000070.2:c.2117C>A	15:42702627	snp	-	-	No ExAC data for variant	NA	Pathogenic	20	-	r.(?)	p.(Thr706Lys)	CAPN3_00162	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/15733273	DNA	SEQ	-	-
+NM_000070.2:c.2120A>G	15:42702630	snp	G:0.000173,G:0.000173	G	0.000173000	3	Pathogenic	20	-	r.2120a>g	p.Asp707Gly	CAPN3_00118	control chromosomes	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/10567047	DNA, RNA	RT-PCR, SEQ	-	-
+NM_000070.2:c.2134C>T	15:42702644	snp	-	-	No ExAC data for variant	NA	Pathogenic	20	-	r.(?)	p.(Leu712Phe)	CAPN3_00130	-	germline (inherited)	-	Ginjaar WMS2005	DNA	DGGE	-	-
+NM_000070.2:c.2148G>T	15:42702658	snp	A:8.237e-06	T	No relevant ExAC data	NA	Pathogenic	20	-	r.(?)	p.(Glu716Asp)	CAPN3_00296	-	germline (inherited)	-	-	DNA	DGGE, SEQ	-	-
+NM_000070.2:c.2177_2184+8del	15:42702686-42702701	del	-	-	No ExAC data for variant	NA	Pathogenic	20	-	r.spl?	p.(?)	CAPN3_00292	-	germline (inherited)	-	-	DNA	SEQ	-	-
+NM_000070.2:c.2182C>T	15:42702692	snp	-	-	No ExAC data for variant	NA	Pathogenic	20	-	r.(?)	p.(Gln728*)	CAPN3_00133	-	germline (inherited)	-	Ginjaar WMS2005	DNA	DGGE	-	-
+NM_000070.2:c.2184G>A	15:42702694	snp	-	-	No ExAC data for variant	NA	Mixed reported pathogenicity	20	-	r.(spl?)	p.(?)	CAPN3_00212	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/16141003	DNA	DHPLC	-	-
+NM_000070.2:c.2184+3G>A	15:42702697	snp	A:2.472e-05,A:2.472e-05	A	0.000024720	4	Unknown	20i	-	r.spl?	p.(?)	CAPN3_00334	-	germline (inherited)	-	-	DNA	SSCA	-	-
+NM_000070.2:c.2185-16A>G	15:42702770	snp	-	-	No ExAC data for variant	NA	Mixed reported pathogenicity	20i	-	r.(spl?)	p.(?)	CAPN3_00300	-	germline (inherited)	-	-	DNA	SSCA	-	-
+NM_000070.2:c.2185-12_2194del	15:42702774-42702795	del	-	-	No ExAC data for variant	NA	Pathogenic	20i	-	r.spl?	p.(?)	CAPN3_00079	-	germline (inherited)	-	-	DNA	SSCA	-	-
+NM_000070.2:c.2185-2A>G	15:42702784	snp	-	-	No ExAC data for variant	NA	Pathogenic	20i	-	r.spl?	p.(?)	CAPN3_00084	-	germline (inherited)	-	-	DNA	SSCA	-	-
+NM_000070.2:c.2190_2196del	15:42702791-42702797	del	-	-	No ExAC data for variant	NA	Pathogenic	21	-	r.(?)	p.(Phe731Thrfs*43)	CAPN3_00374	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/16650086	DNA	DHPLC	-	-
+NM_000070.2:c.2192T>C	15:42702793	snp	-	-	No ExAC data for variant	NA	Pathogenic	21	-	r.(?)	p.(Phe731Ser)	CAPN3_00081	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/10330340	DNA	SEQ	-	-XmnI
+NM_000070.2:c.2207_2208del	15:42702805-42702806	del	-	-	No ExAC data for variant	NA	Pathogenic	21	-	r.(?)	p.(Thr736Argfs*28)	CAPN3_00213	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/16141003	DNA	DHPLC	-	-
+NM_000070.2:c.2212C>T	15:42702813	snp	-	-	No ExAC data for variant	NA	Pathogenic	21	-	r.(?)	p.(Gln738*)	CAPN3_00214	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/16141003	DNA	DHPLC	-	-
+NM_000070.2:c.2226_2240del	15:42702825-42702839	del	-	-	No ExAC data for variant	NA	Pathogenic	21	-	r.2226_2240del	p.Ile742_Glu746del	CAPN3_00442	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/17897828	DNA, RNA	RT-PCR, SEQ	?	?
+NM_000070.2:c.2230A>G	15:42702831	snp	G:8.346e-06,G:8.346e-06	G	0.000008346	5	Pathogenic	21	-	r.(?)	p.(Ser744Gly)	CAPN3_00019	not in 120 control chromosomes	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/7720071,http://www.ncbi.nlm.nih.gov/pubmed/9655129	DNA	HD, SEQ	-	AluI-
+NM_000070.2:c.2231G>C	15:42702832	snp	-	-	No ExAC data for variant	NA	Unknown	21	-	r.(?)	p.(Ser744Thr)	CAPN3_00397	-	germline (inherited)	-	{DBSubm098}	DNA	SEQ	-	-
+NM_000070.2:c.2235C>G	15:42702836	snp	T:0.0005355,G:1.673e-05	G	0.000016730	4	Pathogenic	21	-	r.(?)	p.(Tyr745*)	CAPN3_00314	-	germline (inherited)	-	-	DNA	SSCA	-	-
+NM_000070.2:c.2235C>T	15:42702836	snp	T:0.0005355,G:1.673e-05	T	0.000535500	3	Unknown	21	-	r.(?)	p.(=)	CAPN3_00365	-	germline (inherited)	-	-	DNA	SEQ	-	-
+NM_000070.2:c.2239_2240insAACA	15:42702839-42702840	ins	-	-	No ExAC data for variant	NA	Pathogenic	21	-	r.(?)	p.(Met747Lysfs*19)	CAPN3_00535	-	germline (inherited)	?	-	DNA	SEQ	-	-
+NM_000070.2:c.2242C>T	15:42702843	snp	T:8.411e-06,T:8.411e-06	T	0.000008411	5	Mixed reported pathogenicity	21	-	r.(?)	p.(Arg748*)	CAPN3_00123	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/16141003	DNA	DHPLC	-	-
+NM_000070.2:c.2243G>A	15:42702844	snp	-	-	No ExAC data for variant	NA	Pathogenic	21	-	r.(?)	p.(Arg748Gln)	CAPN3_00028	-	germline (inherited)	-	-	DNA	SSCA	-	-
+NM_000070.2:c.2245A>C	15:42702846	snp	-	-	No ExAC data for variant	NA	Pathogenic	21	-	r.2245a>c	p.Asn749His	CAPN3_00337	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/16372320,http://www.ncbi.nlm.nih.gov/pubmed/17157502	DNA, RNA	RT-PCR, SEQ, DHPLC	-	-
+NM_000070.2:c.2257delinsAA	15:42702858	delins	A:0.0007854,A:0.0007854	A	0.000785400	3	Pathogenic	21	-	r.(?)	p.(Asp753Lysfs*12)	CAPN3_00215	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/16141003	DNA	DHPLC	-	-
+NM_000070.2:c.2257G>A	15:42702858	snp	A:0.0007854,A:0.0007854	A	0.000785400	3	Mixed reported pathogenicity	21	-	r.(?)	p.(Asp753Asn)	CAPN3_00166	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/15221789	DNA	DHPLC	-	-
+NM_000070.2:c.2263+1G>C	15:42702865	snp	-	-	No ExAC data for variant	NA	Unknown	21i	-	r.spl?	p.(?)	CAPN3_00293	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/18055493	DNA	SEQ	-	-
+NM_000070.2:c.2263+2T>A	15:42702866	snp	-	-	No ExAC data for variant	NA	Pathogenic	21i	-	r.spl?	p.(?)	CAPN3_00110	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/10330340	DNA	SEQ	-	-
+NM_000070.2:c.2264-1G>C	15:42703081	snp	-	-	No ExAC data for variant	NA	Pathogenic	21i	-	r.(?)	p.(?)	CAPN3_00384	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/16650086	DNA	DHPLC	-	-
+NM_000070.2:c.2269C>G	15:42703087	snp	T:0.0001483	G	No relevant ExAC data	NA	Pathogenic	22	-	r.(?)	p.(His757Asp)	CAPN3_00131	-	germline (inherited)	-	Ginjaar, Neuromuscul.Disord. 12:731,	DNA	DGGE	-	-
+NM_000070.2:c.2279dupA	15:42703095-42703096	dup	A:8.238e-06	A	0.000008238	5	Pathogenic	22	-	r.(?)	p.(Asn760Lysfs*5)	CAPN3_00399	-	germline (inherited)	-	{DBSubm098}	DNA	SEQ	-	-
+NM_000070.2:c.2288A>G	15:42703106	snp	G:8.237e-06,G:8.237e-06	G	0.000008237	5	Pathogenic	22	-	r.2288a>g	p.Tyr763Cys	CAPN3_00119	-	germline (inherited)	-	{DB: Hoffman}	DNA, RNA	SEQ	-	-
+NM_000070.2:c.2290del	15:42703108	del	-	-	No ExAC data for variant	NA	Probably pathogenic	22	-	r.(?)	p.(Asp764Thrfs*12)	CAPN3_00455	-	germline (inherited)	-	-	DNA	PCR, SEQ	-	-
+NM_000070.2:c.2292C>T	15:42703110	snp	T:0.0001318,T:0.0001318	T	0.000131800	3	No known pathogenicity	22	-	r.(?)	p.(=)	CAPN3_00256	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/16141003	DNA	DHPLC	-	-
+NM_000070.2:c.2295_2297del	15:42703110-42703112	del	-:8.237e-06	-	0.000008237	5	Pathogenic	22	-	r.(?)	p.(Ile765del)	CAPN3_00148	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/12461690	DNA	SSCA, DHPLC	-	-
+NM_000070.2:c.2306G>A	15:42703124	snp	A:4.942e-05,A:4.942e-05	A	0.000049420	4	Pathogenic	22	-	r.(?)	p.(Arg769Gln)	CAPN3_00013	-	germline (inherited)	-	-	DNA	SSCA	-	-
+NM_000070.2:c.2306G>C	15:42703124	snp	A:4.942e-05,A:4.942e-05	C	No relevant ExAC data	NA	Pathogenic	22	-	r.(?)	p.(Arg769Pro)	CAPN3_00369	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/11785010,http://www.ncbi.nlm.nih.gov/pubmed/16607617	DNA	DHPLC	-	-
+NM_000070.2:c.2314_2317del	15:42703130-42703133	del	-	-	No ExAC data for variant	NA	Pathogenic	22	-	r.(?)	p.(Asp772Asnfs*3)	CAPN3_00014	-	germline (inherited)	-	-	DNA	SEQ	-	-
+NM_000070.2:c.2317_2321delinsT	15:42703135-42703139	delins	-	-	No ExAC data for variant	NA	Pathogenic	22	-	r.(?)	p.(Lys773Serfs*2)	CAPN3_00085	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/10330340	DNA	SSCA	-	-TthII, +BspHI
+NM_000070.2:c.2319dupA	15:42703134-42703135	dup	-	-	No ExAC data for variant	NA	Pathogenic	22	-	r.(?)	p.(His774Thrfs*7)	CAPN3_00111	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/10330340	DNA	SSCA, DGGE	-	-
+NM_000070.2:c.2320C>G	15:42703138	snp	-	-	No ExAC data for variant	NA	Unknown	22	H774D	r.(?)	p.(His774Asp)	CAPN3_00112	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/11053681,http://www.ncbi.nlm.nih.gov/pubmed/10330340	DNA	SSCA	-	-
+NM_000070.2:c.2330T>C	15:42703148	snp	-	-	No ExAC data for variant	NA	Pathogenic	22	-	r.(?)	p.(Ile777Thr)	CAPN3_00216	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/15221789,http://www.ncbi.nlm.nih.gov/pubmed/15725583,http://www.ncbi.nlm.nih.gov/pubmed/16141003	DNA	DHPLC	-	-
+NM_000070.2:c.2332G>A	15:42703150	snp	A:0.002817,C:8.237e-06	A	0.002817000	2	Mixed reported pathogenicity	22	-	r.(?)	p.(Asp778Asn)	CAPN3_00366	-	germline (inherited)	-	-	DNA	DGGE, SEQ	-	-
+NM_000070.2:c.2335T>A	15:42703153	snp	-	-	No ExAC data for variant	NA	Pathogenic	22	-	r.(?)	p.(Phe779Ile)	CAPN3_00217	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/16141003	DNA	DHPLC	-	-
+NM_000070.2:c.2338G>C	15:42703156	snp	C:1.647e-05,C:1.647e-05	C	0.000016470	4	Pathogenic	22	-	r.(?)	p.(Asp780His)	CAPN3_00159	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/15733273	DNA	SEQ	-	-
+NM_000070.2:c.2362_2363delinsTCATCT	15:42703180-42703181	delins	-	-	No ExAC data for variant	NA	Pathogenic	22	-	r.(?)	p.(Arg788Serfs*14)	CAPN3_00015	-	germline (inherited)	-	-	DNA	SEQ	-	-
+NM_000070.2:c.2371G>A	15:42703189	snp	-	-	No ExAC data for variant	NA	Pathogenic	22	-	r.(?)	p.(Glu791Ser)	CAPN3_00316	-	germline (inherited)	-	-	DNA	SSCA	-	-
+NM_000070.2:c.2371G>T	15:42703189	snp	-	-	No ExAC data for variant	NA	Pathogenic	22	-	r.(?)	p.(Gly791Cys)	CAPN3_00424	control chromosomes	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/17994539	DNA	SEQ	-	-
+NM_000070.2:c.2376G>A	15:42703194	snp	-	-	No ExAC data for variant	NA	Pathogenic	22	-	r.(?)	p.(Met792Ile)	CAPN3_00425	control chromosomes	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/17994539	DNA	SEQ	-	-
+NM_000070.2:c.2380+1G>T	15:42703199	snp	-	-	No ExAC data for variant	NA	Pathogenic	22i	-	r.[2264_2380del, 2307_2380del]	p.[Phe756_Arg794del, Tyr770Serfs*6]	CAPN3_00426	control chromosomes	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/17994539	DNA	SEQ	-	-
+NM_000070.2:c.2380+2T>G	15:42703200	snp	G:8.238e-06,G:8.238e-06	G	0.000008238	5	Unknown	22i	-	r.spl?	p.(?)	CAPN3_00151	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/18055493	DNA	SEQ	-	-
+NM_000070.2:c.2380+12A>G	15:42703210	snp	-:0.04606,-:0.04606	G	No relevant ExAC data	NA	Unknown	22i	-	r.(?)	p.(=)	CAPN3_00523	http://genetics.emory.edu/egl/emvclass/emvclass.php	unknown	-	-	DNA	SEQ	-	-
+NM_000070.2:c.2380+12delA	15:42703210	del	-:0.04606,-:0.04606	-	0.046060000	1	Mixed reported pathogenicity	22i	-	r.spl?	p.(?)	CAPN3_00113	pathogenicity unclear	germline (inherited)	-	-	DNA	SEQ	-	-
+NM_000070.2:c.2380+19C>T	15:42703217	snp	T:0.0008485,T:0.0008485	T	0.000848500	3	Unknown	22i	-	r.(spl?)	p.(?)	CAPN3_00350	-	germline (inherited)	-	-	DNA	SEQ	-	-
+NM_000070.2:c.2380+20dupT	15:42703217-42703218	dup	-	-	No ExAC data for variant	NA	Unknown	22i	-	r.(?)	p.(=)	CAPN3_00352	-	germline (inherited)	-	-	DNA	SEQ	-	-
+NM_000070.2:c.2381-129G>A	15:42703356	snp	-	-	No ExAC data for variant	NA	No known pathogenicity	22i	-	r.(?)	p.(=)	CAPN3_00182	-	germline (inherited)	-	-	DNA	DHPLC	1/76	-
+NM_000070.2:c.2381-79T>C	15:42703406	snp	-	-	No ExAC data for variant	NA	No known pathogenicity	22i	-	r.(?)	p.(=)	CAPN3_00183	-	germline (inherited)	-	-	DNA	DHPLC, SEQ	2/76	-
+NM_000070.2:c.2381-12A>G	15:42703473	snp	G:0.001788,G:0.001788	G	0.001788000	2	Unknown	22i	-	r.(?)	p.(=)	CAPN3_00367	-	germline (inherited)	-	-	DNA	DGGE, SEQ	-	-
+NM_000070.2:c.2390A>C	15:42703494	snp	G:8.238e-05	C	No relevant ExAC data	NA	Pathogenic	23	2380A>C	r.(?)	p.(His797Pro)	CAPN3_00427	control chromosomes	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/17994539	DNA	SEQ	-	-
+NM_000070.2:c.2393C>A	15:42703497	snp	A:0.0001071,A:0.0001071	A	0.000107100	3	Mixed reported pathogenicity	23	-	r.(?)	p.(Ala798Glu)	CAPN3_00114	-	germline (inherited)	-	-	DNA	SEQ	-	-
+NM_000070.2:c.2420T>C	15:42703524	snp	-	-	No ExAC data for variant	NA	Pathogenic	23	-	r.(?)	p.(Ile807Thr)	CAPN3_00381	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/16650086	DNA	DHPLC	-	-
+NM_000070.2:c.2433T>C	15:42703537	snp	C:0.00341,C:0.00341	C	0.003410000	2	Mixed reported pathogenicity	23	-	r.(?)	p.(=)	CAPN3_00504	-	germline (inherited)	-	-	DNA	SEQ	-	-
+NM_000070.2:c.2435T>C	15:42703539	snp	-	-	No ExAC data for variant	NA	Unknown	23	-	r.(?)	p.(Leu812Pro)	CAPN3_00509	-	germline (inherited)	-	-	DNA	SEQ	-	-
+NM_000070.2:c.2439+69C>T	15:42703612	snp	-	-	No ExAC data for variant	NA	Unknown	23i	-	r.(?)	p.(=)	CAPN3_00368	-	germline (inherited)	-	-	DNA	DGGE, SEQ	-	-
+NM_000070.2:c.2440-46G>T	15:42703899	snp	T:0.0008891,GGT:0.0141,GT:0.0001376	T	0.000889100	3	No known pathogenicity	23i	-	r.(?)	p.(=)	CAPN3_00524	http://genetics.emory.edu/egl/emvclass/emvclass.php	unknown	-	-	DNA	SEQ	-	-
+NM_000070.2:c.2440-45delG	15:42703887	del	-	-	No ExAC data for variant	NA	No known pathogenicity	23i	-	r.(?)	p.(=)	CAPN3_00186	-	germline (inherited)	-	-	DNA	DHPLC	2/76	-
+NM_000070.2:c.2440-45dupG	15:42703886-42703887	dup	-	-	No ExAC data for variant	NA	No known pathogenicity	23i	-	r.(?)	p.(=)	CAPN3_00185	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?cmd=Retrieve&db=nucleotide&dopt=GenBank&list_uids=AF209502.1	DNA	DHPLC	1/76	-
+NM_000070.2:c.2440-45_2440-42del	15:42703900-42703903	del	-	-	No ExAC data for variant	NA	No known pathogenicity	23i	2440-42_2440-45del	r.(?)	p.(=)	CAPN3_00187	-	germline (inherited)	-	-	DNA	DHPLC	2/76	-
+NM_000070.2:c.2440-45_2440-41del	15:42703900-42703904	del	-	-	No ExAC data for variant	NA	No known pathogenicity	23i	2440-41_2440-45del	r.(?)	p.(=)	CAPN3_00188	-	germline (inherited)	-	-	DNA	DHPLC	2/76	-
+NM_000070.2:c.2440-42A>T	15:42703903	snp	-	-	No ExAC data for variant	NA	Probably not pathogenic	23i	-	r.(?)	p.(=)	CAPN3_00505	-	germline (inherited)	-	-	DNA	SEQ	-	-
+NM_000070.2:c.2440-6_2440-3del	15:42703936-42703939	del	-	-	No ExAC data for variant	NA	Pathogenic	23i	2440-7_2440-4del	r.spl?	p.(?)	CAPN3_00218	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/16141003	DNA	DHPLC	-	-
+NM_000070.2:c.2440-3C>G	15:42703942	snp	G:8.26e-06,G:8.26e-06	G	0.000008260	5	Mixed reported pathogenicity	23i	-	r.spl?	p.(?)	CAPN3_00294	-	germline (inherited)	-	-	DNA	SEQ	-	-
+NM_000070.2:c.2440-1G>C	15:42703944	snp	-	-	No ExAC data for variant	NA	Probably pathogenic	23i	-	r.spl?	p.(?)	CAPN3_00449	-	germline (inherited)	-	-	DNA	SEQ	-	-
+NM_000070.2:c.2442G>A	15:42703947	snp	-	-	No ExAC data for variant	NA	Pathogenic	24	-	r.(?)	p.(Trp814*)	CAPN3_00431	control chromosomes	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/pubmed/17994539	DNA	SEQ	-	-
+NM_000070.2:c.2464T>C	15:42703969	snp	-	-	No ExAC data for variant	NA	Pathogenic	24	-	r.(?)	p.(*822Argext62*)	CAPN3_00125	-	germline (inherited)	-	Ginjaar, Neuromuscul.Disord. 12:731,	DNA	DGGE	-	-
+NM_000070.2:c.*51T>A	15:42704022	snp	-	-	No ExAC data for variant	NA	Probably not pathogenic	24	-	r.(?)	p.(=)	CAPN3_00502	-	germline (inherited)	-	-	DNA	SEQ	-	-
+NM_000070.2:c.*134C>T	15:42704105	snp	-	-	No ExAC data for variant	NA	No known pathogenicity	24	-	r.*134c>u	p.(=)	CAPN3_00189	-	germline (inherited)	-	http://www.ncbi.nlm.nih.gov/SNP/snp_ref.cgi?type=rs&rs=rs3098423	DNA	DGGE, SEQ	-	-

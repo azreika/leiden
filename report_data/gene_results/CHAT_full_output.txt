@@ -1,0 +1,35 @@
+leiden_reported_variant	location	type	raw_allele_frequency	deduced_new_base	deduced_allele_frequency	band	reported_pathogenicity	exon	var_pub_as	rna_change	protein_change	db_id	variant_remarks	genet_ori	reference	template	technique	frequency	re_site
+NM_020549.4:c.358G>A	10:50824619	snp	A:0.2269	A	0.226900000	0	Pathogenic	2	-	r.(?)	p.(?)	CHAT_00003	-	germline (inherited)	http://www.ncbi.nlm.nih.gov/SNP/snp_ref.cgi?type=rs&rs=rs3810950	DNA	SEQ	-	-
+NM_020549.4:c.406G>A	10:50827789	snp	A:4.227e-05	A	0.000042270	4	Pathogenic	3	-	r.(?)	p.(Val136Met)	CHAT_00022	-	germline (inherited)	-	DNA	CSCE	-	-
+NM_020549.4:c.580G>C	10:50828541	snp	-	-	No ExAC data for variant	NA	Pathogenic	4	-	r.(spl?)	p.(?)	CHAT_00013	-	germline (inherited)	http://www.ncbi.nlm.nih.gov/pubmed/12548525	DNA	SEQ	-	-
+NM_020549.4:c.605T>G	10:50828566	snp	G:6.59e-05	G	0.000065900	4	Pathogenic	4	-	r.(?)	p.(Met202Arg)	CHAT_00027	-	germline (inherited)	-	DNA	CSCE	-	-
+NM_020549.4:c.619C>G	10:50828580	snp	T:1.648e-05	G	No relevant ExAC data	NA	Unknown	4	-	r.(?)	p.(Arg207Gly)	CHAT_00033	-	germline (inherited)	-	DNA	PCR, SEQ	-	-
+NM_020549.4:c.620G>A	10:50828581	snp	A:8.238e-06,C:8.238e-06	A	0.000008238	5	Probably pathogenic	4	-	r.(?)	p.(Arg207His)	CHAT_00034	-	germline (inherited)	-	DNA	PCR, SEQ	-	-
+NM_020549.4:c.629T>C	10:50828590	snp	C:8.238e-05	C	0.000082380	4	Pathogenic	4	-	r.(?)	p.(?)	CHAT_00002	-	germline (inherited)	http://www.ncbi.nlm.nih.gov/SNP/snp_ref.cgi?type=rs&rs=rs28930071	DNA	SEQ	-	-
+NM_020549.4:c.631C>G	10:50828592	snp	-	-	No ExAC data for variant	NA	Pathogenic	4	-	r.(?)	p.(?)	CHAT_00009	-	germline (inherited)	http://www.ncbi.nlm.nih.gov/pubmed/11172068	DNA	SEQ	-	-
+NM_020549.4:c.678_684del	10:50828637-50828643	del	-	-	No ExAC data for variant	NA	Pathogenic	4	678_684delTGGCACC	r.(?)	p.(Gly227Metfs*4)	CHAT_00031	-	germline (inherited)	http://www.ncbi.nlm.nih.gov/pubmed/19900826	DNA	SEQ	-	-
+NM_020549.4:c.703G>A	10:50830147	snp	A:8.241e-06	A	0.000008241	5	Pathogenic	5	-	r.(?)	p.(Ala235Thr)	CHAT_00026	-	germline (inherited)	-	DNA	CSCE	-	-
+NM_020549.4:c.914T>C	10:50833680	snp	-	-	No ExAC data for variant	NA	Pathogenic	6	-	r.(?)	p.(?)	CHAT_00010	-	germline (inherited)	http://www.ncbi.nlm.nih.gov/pubmed/11172068	DNA	SEQ	-	-
+NM_020549.4:c.1007T>C	10:50835727	snp	C:8.236e-06	C	0.000008236	5	Pathogenic	7	-	r.(?)	p.(Ile336Thr)	CHAT_00014	not in 260 control chromosomes	germline (inherited)	http://www.ncbi.nlm.nih.gov/pubmed/12756141,http://www.ncbi.nlm.nih.gov/pubmed/12609506,http://www.ncbi.nlm.nih.gov/pubmed/19900826	DNA	SEQ	-	Tsp4CI+
+NM_020549.4:c.1061C>T	10:50835781	snp	T:8.24e-06	T	0.000008240	5	Pathogenic	7	-	r.(?)	p.(Thr354Met)	CHAT_00015	not in 100 control chromosomes	germline (inherited)	http://www.ncbi.nlm.nih.gov/pubmed/15701560	DNA	SEQ	-	TaiI+
+NM_020549.4:c.1102C>G	10:50835822	snp	-	-	No ExAC data for variant	NA	Probably pathogenic	7	-	-	p.(Leu368Val)	CHAT_00035	-	germline (inherited)	-	DNA	PCR, SEQ	-	-
+NM_020549.4:c.1249G>A	10:50854688	snp	-	-	No ExAC data for variant	NA	Pathogenic	8	-	r.(?)	p.(Gly417Arg)	CHAT_00032	-	germline (inherited)	http://www.ncbi.nlm.nih.gov/pubmed/19900826	DNA	SEQ	-	-
+NM_020549.4:c.1258C>T	10:50854697	snp	-	-	No ExAC data for variant	NA	Pathogenic	8	-	r.(?)	p.(?)	CHAT_00004	-	germline (inherited)	http://www.ncbi.nlm.nih.gov/pubmed/11172068	DNA	SEQ	-	-
+NM_020549.4:c.1262G>C	10:50854701	snp	-	-	No ExAC data for variant	NA	Pathogenic	8	-	r.(?)	p.(Trp421Ser)	CHAT_00019	-	germline (inherited)	-	DNA	CSCE	-	-
+NM_020549.4:c.1321G>A	10:50856592	snp	A:8.384e-06	A	0.000008384	5	Pathogenic	9	-	r.(?)	p.(?)	CHAT_00005	-	germline (inherited)	http://www.ncbi.nlm.nih.gov/pubmed/11172068	DNA	SEQ	-	-
+NM_020549.4:c.1444A>G	10:50857615	snp	C:8.48e-06	G	No relevant ExAC data	NA	Pathogenic	10	-	r.(?)	p.(?)	CHAT_00001	-	germline (inherited)	http://www.ncbi.nlm.nih.gov/SNP/snp_ref.cgi?type=rs&rs=rs28929481	DNA	SEQ	-	-
+NM_020549.4:c.1492T>C	10:50857663	snp	-	-	No ExAC data for variant	NA	Pathogenic	10	-	r.(?)	p.(Ser498Pro)	CHAT_00023	-	germline (inherited)	-	DNA	CSCE	-	-
+NM_020549.4:c.1493C>T	10:50857664	snp	T:2.544e-05	T	0.000025440	4	Pathogenic	10	-	r.(?)	p.(?)	CHAT_00006	-	germline (inherited)	http://www.ncbi.nlm.nih.gov/pubmed/11172068	DNA	SEQ	-	-
+NM_020549.4:c.1516G>T	10:50859934	snp	-	-	No ExAC data for variant	NA	Pathogenic	11	-	r.(?)	p.(?)	CHAT_00007	-	germline (inherited)	http://www.ncbi.nlm.nih.gov/pubmed/11172068	DNA	SEQ	-	-
+NM_020549.4:c.1642C>T	10:50863148	snp	T:8.248e-06	T	0.000008248	5	Pathogenic	12	-	r.(?)	p.(?)	CHAT_00011	-	germline (inherited)	http://www.ncbi.nlm.nih.gov/pubmed/12548525	DNA	SEQ	-	-
+NM_020549.4:c.1658C>A	10:50863164	snp	-	-	No ExAC data for variant	NA	Pathogenic	12	-	r.(?)	p.(?)	CHAT_00016	-	germline (inherited)	http://www.ncbi.nlm.nih.gov/pubmed/18797171	DNA	SEQ	-	-
+NM_020549.4:c.1663G>T	10:50863169	snp	A:1.651e-05	T	No relevant ExAC data	NA	Pathogenic	12	-	r.(?)	p.(Glu555*)	CHAT_00028	-	germline (inherited)	-	DNA	CSCE	-	-
+NM_020549.4:c.1669G>A	10:50863175	snp	A:5.783e-05	A	0.000057830	4	Pathogenic	12	-	r.(?)	p.(Ala557Thr)	CHAT_00024	-	germline (inherited)	-	DNA	CSCE	-	-
+NM_020549.4:c.1679G>A	10:50863185	snp	A:9.914e-05	A	0.000099140	4	Pathogenic	12	-	r.(?)	p.(?)	CHAT_00008	-	germline (inherited)	http://www.ncbi.nlm.nih.gov/pubmed/11172068	DNA	SEQ	-	-
+NM_020549.4:c.1715C>G	10:50863221	snp	G:8.269e-06	G	0.000008269	5	Pathogenic	12	-	r.(?)	p.(Ser572Trp)	CHAT_00021	-	germline (inherited)	-	DNA	CSCE	-	-
+NM_020549.4:c.1729G>A	10:50863235	snp	-	-	No ExAC data for variant	NA	Pathogenic	12	-	r.(?)	p.(?)	CHAT_00018	-	germline (inherited)	http://www.ncbi.nlm.nih.gov/pubmed/19520274	DNA	SEQ	-	-
+NM_020549.4:c.1823C>A	10:50863478	snp	A:8.246e-06	A	0.000008246	5	Pathogenic	13	-	r.(?)	p.(Thr608Asn)	CHAT_00025	-	germline (inherited)	-	DNA	CSCE	-	-
+NM_020549.4:c.1891G>A	10:50870742	snp	-	-	No ExAC data for variant	NA	Pathogenic	14	-	r.(?)	p.(Ala631Thr)	CHAT_00020	-	germline (inherited)	-	DNA	CSCE	-	-
+NM_020549.4:c.2066T>G	10:50872911	snp	A:8.237e-06	G	No relevant ExAC data	NA	Pathogenic	15	-	r.(?)	p.(Ile689Ser)	CHAT_00029	-	germline (inherited)	-	DNA	CSCE	-	-
+NM_020549.4:c.2081C>G	10:50872926	snp	-	-	No ExAC data for variant	NA	Pathogenic	15	-	r.(?)	p.(?)	CHAT_00012	-	germline (inherited)	http://www.ncbi.nlm.nih.gov/pubmed/12548525	DNA	SEQ	-	-
+NM_020549.4:c.2110T>C	10:50872955	snp	-	-	No ExAC data for variant	NA	Pathogenic	15	-	r.(?)	p.(?)	CHAT_00017	-	germline (inherited)	http://www.ncbi.nlm.nih.gov/pubmed/18797171	DNA	SEQ	-	-
